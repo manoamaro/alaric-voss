@@ -9,7 +9,7 @@ Ritual: true
 Damage:
 Damage Type:
 Upgrade:
-Spell Book: false
+Spell Book: true
 Prepared: false
 Classes:
   - Ranger

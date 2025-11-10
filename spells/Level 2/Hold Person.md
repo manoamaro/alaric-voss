@@ -3,13 +3,13 @@ Level: 2
 School: Enchantment
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a straight piece of iron)"
+Components: V, S, M (a straight piece of iron)
 Concentration: Yes (up to 1 minute)
 Ritual: false
-Damage: null
-"Damage Type": null
+Damage:
+Damage Type:
 Upgrade: Using a Higher-Level Spell Slot. You can target one additional Humanoid for each spell slot level above 2.
-Spell Book: false
+Spell Book: true
 Prepared: false
 Classes:
   - Bard

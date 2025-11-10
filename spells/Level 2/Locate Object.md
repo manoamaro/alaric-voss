@@ -3,13 +3,13 @@ Level: 2
 School: Divination
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a forked twig)"
+Components: V, S, M (a forked twig)
 Concentration: Yes (up to 10 minutes)
 Ritual: false
-Damage: null
-"Damage Type": null
-Upgrade: null
-Spell Book: false
+Damage:
+Damage Type:
+Upgrade:
+Spell Book: true
 Prepared: false
 Classes:
   - Bard

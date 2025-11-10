@@ -3,13 +3,13 @@ Level: 1
 School: Abjuration
 CastingTime: "#Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell"
 Range: Self
-Components: "V, S"
+Components: V, S
 Concentration: No (1 round)
 Ritual: false
-Damage: null
-"Damage Type": null
-Upgrade: null
-Spell Book: false
+Damage:
+Damage Type:
+Upgrade:
+Spell Book: true
 Prepared: false
 Classes:
   - Sorcerer

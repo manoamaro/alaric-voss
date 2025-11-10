@@ -3,13 +3,13 @@ Level: 2
 School: Illusion
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (an eyelash in gum arabic)"
+Components: V, S, M (an eyelash in gum arabic)
 Concentration: Yes (up to 1 hour)
 Ritual: false
-Damage: null
-"Damage Type": null
+Damage:
+Damage Type:
 Upgrade: Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 2
-Spell Book: false
+Spell Book: true
 Prepared: false
 Classes:
   - Bard

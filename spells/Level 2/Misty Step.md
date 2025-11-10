@@ -6,10 +6,10 @@ Range: Self
 Components: V
 Concentration: No (Instantaneous)
 Ritual: false
-Damage: null
-"Damage Type": null
-Upgrade: null
-Spell Book: false
+Damage:
+Damage Type:
+Upgrade:
+Spell Book: true
 Prepared: false
 Classes:
   - Sorcerer

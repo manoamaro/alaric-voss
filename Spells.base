@@ -8,16 +8,13 @@ views:
     order:
       - file.name
       - Spell Book
-      - Prepared
       - level
-      - school
       - CastingTime
       - range
       - components
       - concentration
       - ritual
       - damage
-      - upgrade
       - Damage Type
     sort:
       - property: level
@@ -26,6 +23,8 @@ views:
         direction: ASC
     cardSize: 200
     imageAspectRatio: 0.85
+    columnSize:
+      note.concentration: 201
   - type: table
     name: Cantrips
     filters:

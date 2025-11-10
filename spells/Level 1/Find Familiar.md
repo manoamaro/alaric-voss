@@ -3,13 +3,13 @@ Level: 1
 School: Conjuration
 CastingTime: 1 hour or Ritual
 Range: 10 feet
-Components: "V, S, M (burning incense worth 10+ GP, which the spell consumes)"
+Components: V, S, M (burning incense worth 10+ GP, which the spell consumes)
 Concentration: No (Instantaneous)
 Ritual: true
-Damage: null
-"Damage Type": null
-Upgrade: null
-Spell Book: false
+Damage:
+Damage Type:
+Upgrade:
+Spell Book: true
 Prepared: false
 Classes:
   - Wizard

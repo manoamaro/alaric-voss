@@ -3,13 +3,13 @@ Level: 1
 School: Divination
 CastingTime: Action or Ritual
 Range: Self
-Components: "V, S"
+Components: V, S
 Concentration: Yes (up to 10 minutes)
 Ritual: true
-Damage: null
-"Damage Type": null
-Upgrade: null
-Spell Book: false
+Damage:
+Damage Type:
+Upgrade:
+Spell Book: true
 Prepared: false
 Classes:
   - Bard

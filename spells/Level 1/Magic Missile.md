@@ -3,13 +3,13 @@ Level: 1
 School: Evocation
 CastingTime: Action
 Range: 120 feet
-Components: "V, S"
+Components: V, S
 Concentration: No (Instantaneous)
 Ritual: false
 Damage: 1d4 + 1
-"Damage Type": Force
+Damage Type: Force
 Upgrade: Using a Higher-Level Spell Slot. The spell creates one more dart for each spell slot level above 1.
-Spell Book: false
+Spell Book: true
 Prepared: false
 Classes:
   - Sorcerer

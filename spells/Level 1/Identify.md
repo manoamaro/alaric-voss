@@ -3,13 +3,13 @@ Level: 1
 School: Divination
 CastingTime: 1 minute or Ritual
 Range: Touch
-Components: "V, S, M (a pearl worth 100+ GP)"
+Components: V, S, M (a pearl worth 100+ GP)
 Concentration: No (Instantaneous)
 Ritual: true
-Damage: null
-"Damage Type": null
-Upgrade: null
-Spell Book: false
+Damage:
+Damage Type:
+Upgrade:
+Spell Book: true
 Prepared: false
 Classes:
   - Bard

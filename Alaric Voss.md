@@ -1,4 +1,4 @@
-![[alaric_voss_portrait_1.jpg]]
+![[alaric_voss_portrait_1.jpg|400]]
 # Backstory
 
 Born and raised in Neverwinter, Alaric Voss found himself during childhood always locating small lost objects from his friends and families, discovering early the Gift of Omens. Driven by curiosity about this power, seeking to understand and how to control them, he joined the Neverwinter Academy, diving into the Arcane arts and later on, the School of Divination. He finished his studies with a thesis titled “Threads of the Unseen: A Theoretical Framework for Predictive Weaving through Controlled Divinatory Resonance”, guided by his mentor Archimage Kale Thandrel, passed with distinction. To survive beyond the university’s gates, he turned his research toward practical ends.

@@ -3,13 +3,13 @@ Level: 1
 School: Abjuration
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (a piece of cured leather)"
+Components: V, S, M (a piece of cured leather)
 Concentration: No (8 hours)
 Ritual: false
-Damage: null
-"Damage Type": null
-Upgrade: null
-Spell Book: false
+Damage:
+Damage Type:
+Upgrade:
+Spell Book: true
 Prepared: false
 Classes:
   - Sorcerer

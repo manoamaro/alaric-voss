@@ -3,13 +3,13 @@ Level: 1
 School: Enchantment
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a pinch of sand or rose petals)"
+Components: V, S, M (a pinch of sand or rose petals)
 Concentration: Yes (up to 1 minute)
 Ritual: false
-Damage: null
-"Damage Type": null
-Upgrade: null
-Spell Book: false
+Damage:
+Damage Type:
+Upgrade:
+Spell Book: true
 Prepared: false
 Classes:
   - Bard

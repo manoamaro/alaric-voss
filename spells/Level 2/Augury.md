@@ -3,13 +3,13 @@ Level: 2
 School: Divination
 CastingTime: 1 minute or Ritual
 Range: Self
-Components: "V, S, M (special marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)"
+Components: V, S, M (special marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
 Concentration: No (Instantaneous)
 Ritual: true
-Damage: null
-"Damage Type": null
-Upgrade: null
-Spell Book: false
+Damage:
+Damage Type:
+Upgrade:
+Spell Book: true
 Prepared: false
 Classes:
   - Cleric

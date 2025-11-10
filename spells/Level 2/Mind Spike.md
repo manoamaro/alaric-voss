@@ -7,9 +7,9 @@ Components: S
 Concentration: Yes (up to 1 hour)
 Ritual: false
 Damage: 3d8
-"Damage Type": Psychic
+Damage Type: Psychic
 Upgrade: Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 2
-Spell Book: false
+Spell Book: true
 Prepared: false
 Classes:
   - Sorcerer
