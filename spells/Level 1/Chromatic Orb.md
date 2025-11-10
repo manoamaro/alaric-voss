@@ -3,8 +3,13 @@ Level: 1
 School: Evocation
 CastingTime: Action
 Range: 90 feet
-Components: "V, S, M (a diamond worth 50+ GP)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a diamond worth 50+ GP
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 1
 School: Enchantment
 CastingTime: Action
 Range: 60 feet
-Components: V, S, M (a pinch of sand or rose petals)
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a pinch of sand or rose petals
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage:
 Damage Type:

@@ -3,8 +3,13 @@ Level: 4
 School: Evocation
 CastingTime: Action
 Range: 150 feet
-Components: "V, S, M (a drop of bile)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a drop of bile
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 10d4
 "Damage Type": Acid

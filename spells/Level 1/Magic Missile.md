@@ -3,8 +3,11 @@ Level: 1
 School: Evocation
 CastingTime: Action
 Range: 120 feet
-Components: V, S
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 1d4 + 1
 Damage Type: Force

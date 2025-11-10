@@ -3,8 +3,13 @@ Level: 6
 School: Necromancy
 CastingTime: 1 minute
 Range: 10 feet
-Components: "V, S, M (one 150+ GP black onyx stone for each corpse)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: one 150+ GP black onyx stone for each corpse
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

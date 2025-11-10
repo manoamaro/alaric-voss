@@ -3,8 +3,13 @@ Level: 2
 School: Divination
 CastingTime: Action
 Range: Self
-Components: V, S, M (a copper piece)
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a copper piece
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage:
 Damage Type:

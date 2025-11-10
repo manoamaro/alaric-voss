@@ -3,8 +3,13 @@ Level: 3
 School: Evocation
 CastingTime: Action
 Range: 120 feet
-Components: "V, S, M (a fan and a feather)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a fan and a feather
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 4d8
 "Damage Type": Bludgeoning

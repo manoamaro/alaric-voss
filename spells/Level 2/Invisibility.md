@@ -3,8 +3,13 @@ Level: 2
 School: Illusion
 CastingTime: Action
 Range: Touch
-Components: V, S, M (an eyelash in gum arabic)
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: an eyelash in gum arabic
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage:
 Damage Type:

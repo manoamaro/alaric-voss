@@ -3,8 +3,13 @@ Level: 3
 School: Abjuration
 CastingTime: 1 minute
 Range: 10 feet
-Components: "V, S, M (salt and powdered silver worth 100+ GP, which the spell consumes)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: salt and powdered silver worth 100+ GP, which the spell consumes
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

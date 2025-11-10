@@ -3,8 +3,13 @@ Level: 6
 School: Conjuration
 CastingTime: Action
 Range: 5 feet
-Components: "V, S, M (a gilded ladle worth 500+ GP)"
-Concentration: No (10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a gilded ladle worth 500+ GP
+Concentration: false
+Duration: 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

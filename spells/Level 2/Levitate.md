@@ -3,8 +3,13 @@ Level: 2
 School: Transmutation
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a metal spring)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a metal spring
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

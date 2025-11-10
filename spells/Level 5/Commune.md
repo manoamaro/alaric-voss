@@ -3,8 +3,13 @@ Level: 5
 School: Divination
 CastingTime: 1 minute or Ritual
 Range: Self
-Components: "V, S, M (incense)"
-Concentration: No (1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: incense
+Concentration: false
+Duration: 1 minute
 Ritual: true
 Damage: null
 "Damage Type": null

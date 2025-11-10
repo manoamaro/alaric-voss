@@ -3,8 +3,13 @@ Level: 6
 School: Divination
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (mushroom powder worth 25+ GP, which the spell consumees)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: mushroom powder worth 25+ GP, which the spell consumees
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

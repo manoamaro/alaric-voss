@@ -3,8 +3,13 @@ Level: 2
 School: Transmutation
 CastingTime: "#BonusAction"
 Range: Touch
-Components: "V, S, M (a hot pepper)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a hot pepper
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

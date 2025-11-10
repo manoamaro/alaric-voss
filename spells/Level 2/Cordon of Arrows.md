@@ -3,8 +3,13 @@ Level: 2
 School: Transmutation
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (an ornamental braid)"
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: an ornamental braid
+Concentration: false
+Duration: 8 hours
 Ritual: false
 Damage: 2d4
 "Damage Type": Piercing

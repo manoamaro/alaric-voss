@@ -3,8 +3,10 @@ Level: 5
 School: Illusion
 CastingTime: Action
 Range: Self
-Components: S
-Concentration: Yes (up to 1 hour)
+Components:
+  - S
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

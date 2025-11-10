@@ -3,8 +3,13 @@ Level: 5
 School: Abjuration
 CastingTime: 1 hour
 Range: 60 feet
-Components: "V, S, M (a jewel worth 1,000+ GP, which the spell consumes)"
-Concentration: No (24 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a jewel worth 1,000+ GP, which the spell consumes
+Concentration: false
+Duration: 24 hours
 Ritual: false
 Damage: null
 "Damage Type": null

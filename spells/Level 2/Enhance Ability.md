@@ -3,8 +3,13 @@ Level: 2
 School: Transmutation
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (fur or a feather)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: fur or a feather
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

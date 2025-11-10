@@ -3,8 +3,11 @@ Level: 4
 School: Conjuration
 CastingTime: "#BonusAction"
 Range: 60 feet
-Components: "V, S"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 4d8
 "Damage Type": Bludgeoning

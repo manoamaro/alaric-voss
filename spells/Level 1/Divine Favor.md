@@ -3,8 +3,11 @@ Level: 1
 School: Transmutation
 CastingTime: "#BonusAction"
 Range: Self
-Components: "V, S"
-Concentration: No (1 minute)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 1 minute
 Ritual: false
 Damage: 1d4
 "Damage Type": Radiant

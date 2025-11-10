@@ -3,8 +3,13 @@ Level: 1
 School: Illusion
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a pinch of colorful sand)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a pinch of colorful sand
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

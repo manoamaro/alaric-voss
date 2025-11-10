@@ -3,8 +3,13 @@ Level: 2
 School: Evocation
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (ruby dust worth 50+ GP, which the spell consumes)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: ruby dust worth 50+ GP, which the spell consumes
+Concentration: false
+Duration: Until dispelled
 Ritual: false
 Damage: null
 "Damage Type": null

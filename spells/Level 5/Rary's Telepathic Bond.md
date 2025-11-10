@@ -3,8 +3,13 @@ Level: 5
 School: Divination
 CastingTime: Action or Ritual
 Range: 30 feet
-Components: "V, S, M (two eggs)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: two eggs
+Concentration: false
+Duration: 1 hour
 Ritual: true
 Damage: null
 "Damage Type": null

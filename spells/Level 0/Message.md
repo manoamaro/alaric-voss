@@ -3,8 +3,12 @@ Level: 0
 School: Transmutation
 CastingTime: Action
 Range: 120 feet
-Components: S, M (a copper wire)
-Concentration: No (1 round)
+Components:
+  - S
+  - M
+Material: a copper wire
+Concentration: false
+Duration: 1 round
 Ritual: false
 Damage:
 Damage Type:

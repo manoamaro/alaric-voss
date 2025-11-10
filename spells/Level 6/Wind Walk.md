@@ -3,8 +3,13 @@ Level: 6
 School: Transmutation
 CastingTime: 1 minute
 Range: 30 feet
-Components: "V, S, M (a candle)"
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a candle
+Concentration: false
+Duration: 8 hours
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 9
 School: Abjuration
 CastingTime: 1 minute
 Range: 30 feet
-Components: "V, S, M (a statuette of the target worth 5,000+ GP)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: a statuette of the target worth 5,000+ GP
+Concentration: false
+Duration: Until dispelled
 Ritual: false
 Damage: null
 "Damage Type": null

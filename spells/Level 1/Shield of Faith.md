@@ -3,8 +3,13 @@ Level: 1
 School: Abjuration
 CastingTime: "#BonusAction"
 Range: 60 feet
-Components: "V, S, M (a prayer scroll)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a prayer scroll
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

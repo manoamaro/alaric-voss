@@ -3,8 +3,13 @@ Level: 1
 School: Abjuration
 CastingTime: Action
 Range: Touch
-Components: V, S, M (a piece of cured leather)
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a piece of cured leather
+Concentration: false
+Duration: 8 hours
 Ritual: false
 Damage:
 Damage Type:

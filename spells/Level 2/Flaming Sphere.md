@@ -3,8 +3,13 @@ Level: 2
 School: Conjuration
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a ball of wax)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a ball of wax
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 2d6
 "Damage Type": Fire

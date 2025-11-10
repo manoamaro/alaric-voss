@@ -3,8 +3,11 @@ Level: 0
 School: Conjuration
 CastingTime: "#BonusAction"
 Range: Self
-Components: "V, S"
-Concentration: No (10 minutes)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 10 minutes
 Ritual: false
 Damage: 1d8
 "Damage Type": Fire

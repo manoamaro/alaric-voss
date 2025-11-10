@@ -3,8 +3,13 @@ Level: 1
 School: Enchantment
 CastingTime: "#BonusAction"
 Range: 90 feet
-Components: "V, S, M (the petrified eye of a newt)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: the petrified eye of a newt
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: 1d6
 "Damage Type": Necrotic

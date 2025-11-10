@@ -3,8 +3,11 @@ Level: 3
 School: Necromancy
 CastingTime: Action
 Range: Touch
-Components: "V, S"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 1d8
 "Damage Type": Necrotic

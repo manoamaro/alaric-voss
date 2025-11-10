@@ -3,8 +3,11 @@ Level: 8
 School: Enchantment
 CastingTime: Action
 Range: 60 feet
-Components: "V, S"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

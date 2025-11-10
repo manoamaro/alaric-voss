@@ -3,8 +3,13 @@ Level: 9
 School: Divination
 CastingTime: 1 minute
 Range: Touch
-Components: "V, S, M (a hummingbird feather)"
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a hummingbird feather
+Concentration: false
+Duration: 8 hours
 Ritual: false
 Damage: null
 "Damage Type": null

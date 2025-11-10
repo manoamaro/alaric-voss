@@ -3,8 +3,13 @@ Level: 2
 School: Conjuration
 CastingTime: Action
 Range: 90 feet
-Components: "V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ GP)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ GP
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

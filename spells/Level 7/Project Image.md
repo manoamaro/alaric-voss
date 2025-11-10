@@ -3,8 +3,13 @@ Level: 7
 School: Illusion
 CastingTime: Action
 Range: 500 miles
-Components: "V, S, M (a statuette of yourself worth 5+ GP)"
-Concentration: Yes (up to 1 day)
+Components:
+  - V
+  - S
+  - M
+Material: a statuette of yourself worth 5+ GP
+Concentration: true
+Duration: up to 1 day
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,12 @@ Level: 5
 School: Conjuration
 CastingTime: Action
 Range: 30 feet
-Components: "S, M (a Melee weapon worth 1+ SP)"
-Concentration: No (Instantaneous)
+Components:
+  - S
+  - M
+Material: a Melee weapon worth 1+ SP
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,10 @@ Level: 8
 School: Enchantment
 CastingTime: Action
 Range: Self
-Components: V
-Concentration: No (1 hour)
+Components:
+  - V
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

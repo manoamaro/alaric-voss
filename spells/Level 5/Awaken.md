@@ -3,8 +3,13 @@ Level: 5
 School: Transmutation
 CastingTime: 8 hours
 Range: Touch
-Components: "V, S, M (an agate worth 1,000+ GP, which the spell consumes)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: an agate worth 1,000+ GP, which the spell consumes
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

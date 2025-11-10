@@ -3,8 +3,13 @@ Level: 6
 School: Conjuration
 CastingTime: 1 minute or Ritual
 Range: Touch
-Components: "V, S, M (a sapphire worth 1,000+ GP)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: a sapphire worth 1,000+ GP
+Concentration: false
+Duration: Until dispelled
 Ritual: true
 Damage: null
 "Damage Type": null

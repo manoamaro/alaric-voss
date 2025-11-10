@@ -3,8 +3,13 @@ Level: 3
 School: Transmutation
 CastingTime: Action or Ritual
 Range: 30 feet
-Components: "V, S, M (a piece of cork)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a piece of cork
+Concentration: false
+Duration: 1 hour
 Ritual: true
 Damage: null
 "Damage Type": null

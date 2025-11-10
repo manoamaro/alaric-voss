@@ -3,8 +3,13 @@ Level: 4
 School: Evocation
 CastingTime: Action
 Range: 30 feet
-Components: "V, S, M (a glass sphere)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a glass sphere
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

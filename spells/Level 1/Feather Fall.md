@@ -3,8 +3,12 @@ Level: 1
 School: Transmutation
 CastingTime: "#Reaction, which you take when you or a creature you can see within 60 feet of you falls"
 Range: 60 feet
-Components: V, M (a small feather or piece of down)
-Concentration: No (1 minute)
+Components:
+  - V
+  - M
+Material: a small feather or piece of down
+Concentration: false
+Duration: 1 minute
 Ritual: false
 Damage:
 Damage Type:

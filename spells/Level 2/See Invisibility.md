@@ -3,8 +3,13 @@ Level: 2
 School: Divination
 CastingTime: Action
 Range: Self
-Components: V, S, M (a pinch of talc)
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a pinch of talc
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage:
 Damage Type:

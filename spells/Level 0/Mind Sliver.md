@@ -3,8 +3,10 @@ Level: 0
 School: Enchantment
 CastingTime: Action
 Range: 60 feet
-Components: V
-Concentration: No (1 round)
+Components:
+  - V
+Concentration: false
+Duration: 1 round
 Ritual: false
 Damage: 1d6
 "Damage Type": Psychic

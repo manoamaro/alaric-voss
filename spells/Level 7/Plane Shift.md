@@ -3,8 +3,13 @@ Level: 7
 School: Conjuration
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (a forked, metal rod worth 250+ GP and attuned to a particular plane of existence)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a forked, metal rod worth 250+ GP and attuned to a particular plane of existence
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

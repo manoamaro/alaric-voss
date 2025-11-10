@@ -3,8 +3,13 @@ Level: 5
 School: Transmutation
 CastingTime: "#BonusAction"
 Range: Self
-Components: "V, S, M (a Quiver worth 1+ GP)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a Quiver worth 1+ GP
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 6
 School: Illusion
 CastingTime: Action
 Range: 120 feet
-Components: "V, S, M (jade dust worth 25+ GP)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: jade dust worth 25+ GP
+Concentration: false
+Duration: Until dispelled
 Ritual: false
 Damage: null
 "Damage Type": null

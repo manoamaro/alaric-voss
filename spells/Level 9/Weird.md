@@ -3,8 +3,11 @@ Level: 9
 School: Illusion
 CastingTime: Action
 Range: 120 feet
-Components: "V, S"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 10d10
 "Damage Type": Psychic

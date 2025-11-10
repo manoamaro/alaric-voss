@@ -3,8 +3,13 @@ Level: 7
 School: Transmutation
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (gem dust worth 5,000+ GP, which the spell consumes)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: gem dust worth 5,000+ GP, which the spell consumes
+Concentration: false
+Duration: Until dispelled
 Ritual: false
 Damage: null
 "Damage Type": null

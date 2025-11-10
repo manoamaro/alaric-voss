@@ -3,8 +3,13 @@ Level: 4
 School: Enchantment
 CastingTime: Action
 Range: 90 feet
-Components: "V, S, M (three nut shells)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: three nut shells
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

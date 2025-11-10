@@ -3,8 +3,12 @@ Level: 0
 School: Evocation
 CastingTime: Action
 Range: Self
-Components: "V, M (a sunburst token)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - M
+Material: a sunburst token
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 1d6
 "Damage Type": Radiant

@@ -3,8 +3,11 @@ Level: 9
 School: Conjuration
 CastingTime: Action
 Range: 1 mile
-Components: "V, S"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 2d6
 "Damage Type": Thunder

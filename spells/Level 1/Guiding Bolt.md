@@ -3,8 +3,11 @@ Level: 1
 School: Evocation
 CastingTime: Action
 Range: 120 feet
-Components: "V, S"
-Concentration: No (1 round)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 1 round
 Ritual: false
 Damage: 4d6
 "Damage Type": Radiant

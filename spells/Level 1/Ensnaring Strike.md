@@ -3,8 +3,10 @@ Level: 1
 School: Conjuration
 CastingTime: "#BonusAction, which you take immediately after hitting a creature with a weapon"
 Range: Self
-Components: V
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 1d6
 "Damage Type": Piercing

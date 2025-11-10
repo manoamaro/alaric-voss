@@ -3,8 +3,13 @@ Level: 6
 School: Evocation
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a magnifying glass)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a magnifying glass
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 6d8
 "Damage Type": Radiant

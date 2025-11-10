@@ -3,8 +3,13 @@ Level: 5
 School: Evocation
 CastingTime: Action
 Range: 120 feet
-Components: "V, S, M (a cube of granite)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a cube of granite
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

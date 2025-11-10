@@ -3,8 +3,13 @@ Level: 8
 School: Transmutation
 CastingTime: 10 minutes
 Range: Self
-Components: "V, S, M (burning incense)"
-Concentration: Yes (up to 8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: burning incense
+Concentration: true
+Duration: up to 8 hours
 Ritual: false
 Damage: null
 "Damage Type": null

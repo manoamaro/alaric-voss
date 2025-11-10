@@ -3,8 +3,10 @@ Level: 2
 School: Abjuration
 CastingTime: 10 minutes
 Range: 30 feet
-Components: V
-Concentration: No (Instantaneous)
+Components:
+  - V
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

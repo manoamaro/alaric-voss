@@ -3,8 +3,13 @@ Level: 5
 School: Evocation
 CastingTime: Action
 Range: 120 feet
-Components: "V, S, M (an eggshell and a glove)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: an eggshell and a glove
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 5d8
 "Damage Type": Force

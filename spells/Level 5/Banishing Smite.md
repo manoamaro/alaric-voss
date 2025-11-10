@@ -3,8 +3,10 @@ Level: 5
 School: Conjuration
 CastingTime: "#BonusAction, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike"
 Range: Self
-Components: V
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 5d10
 "Damage Type": Force

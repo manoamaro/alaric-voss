@@ -3,8 +3,13 @@ Level: 6
 School: Conjuration
 CastingTime: Action
 Range: 90 feet
-Components: "V, S, M (a bloody vial worth 600+ GP)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a bloody vial worth 600+ GP
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 5
 School: Abjuration
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (diamond dust worth 100+ GP, which the spell consumes)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: diamond dust worth 100+ GP, which the spell consumes
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

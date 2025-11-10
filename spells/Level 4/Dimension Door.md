@@ -3,8 +3,10 @@ Level: 4
 School: Conjuration
 CastingTime: Action
 Range: 500 feet
-Components: V
-Concentration: No (Instantaneous)
+Components:
+  - V
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 4d6
 "Damage Type": Force

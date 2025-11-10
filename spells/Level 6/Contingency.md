@@ -3,8 +3,13 @@ Level: 6
 School: Abjuration
 CastingTime: 10 minutes
 Range: Self
-Components: "V, S, M (a gem-incrusted statuette of yourself worth 1,500+ GP)"
-Concentration: No (10 days)
+Components:
+  - V
+  - S
+  - M
+Material: a gem-incrusted statuette of yourself worth 1,500+ GP
+Concentration: false
+Duration: 10 days
 Ritual: false
 Damage: null
 "Damage Type": null

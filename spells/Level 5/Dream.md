@@ -3,8 +3,13 @@ Level: 5
 School: Illusion
 CastingTime: 1 minute
 Range: Special
-Components: "V, S, M (a handful of sand)"
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a handful of sand
+Concentration: false
+Duration: 8 hours
 Ritual: false
 Damage: 3d6
 "Damage Type": Psychic

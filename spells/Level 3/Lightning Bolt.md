@@ -3,8 +3,13 @@ Level: 3
 School: Evocation
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a bit of fur and a crystal rod)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a bit of fur and a crystal rod
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 8d6
 "Damage Type": Lightning

@@ -3,8 +3,11 @@ Level: 7
 School: Conjuration
 CastingTime: Action
 Range: Self
-Components: "V, S"
-Concentration: No (Up to 8 hours)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Up to 8 hours
 Ritual: false
 Damage: null
 "Damage Type": null

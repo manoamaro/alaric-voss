@@ -3,8 +3,11 @@ Level: 1
 School: Evocation
 CastingTime: "#Reaction, which you take in response to taking damage from a creature that you can see within 60 feet of yourself"
 Range: 60 feet
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 2d10
 "Damage Type": Fire

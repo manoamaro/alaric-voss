@@ -3,8 +3,13 @@ Level: 3
 School: Evocation
 CastingTime: Action
 Range: 150 feet
-Components: "V, S, M (a ball of bat guano and sulfur)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a ball of bat guano and sulfur
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 8d6
 "Damage Type": Fire

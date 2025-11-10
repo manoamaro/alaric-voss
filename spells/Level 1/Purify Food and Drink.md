@@ -3,8 +3,11 @@ Level: 1
 School: Transmutation
 CastingTime: Action or Ritual
 Range: 10 feet
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: true
 Damage: null
 "Damage Type": null

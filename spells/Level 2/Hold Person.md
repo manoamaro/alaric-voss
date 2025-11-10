@@ -3,8 +3,13 @@ Level: 2
 School: Enchantment
 CastingTime: Action
 Range: 60 feet
-Components: V, S, M (a straight piece of iron)
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a straight piece of iron
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage:
 Damage Type:

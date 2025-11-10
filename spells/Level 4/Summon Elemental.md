@@ -3,8 +3,13 @@ Level: 4
 School: Conjuration
 CastingTime: Action
 Range: 90 feet
-Components: "V, S, M (air, a pebble, ash, and water inside a gold- inlaid vial worth 400+ GP)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: air, a pebble, ash, and water inside a gold- inlaid vial worth 400+ GP
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

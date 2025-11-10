@@ -3,8 +3,10 @@ Level: 3
 School: Abjuration
 CastingTime: "#Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components"
 Range: 60 feet
-Components: S
-Concentration: No (Instantaneous)
+Components:
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

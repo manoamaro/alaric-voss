@@ -3,8 +3,11 @@ Level: 3
 School: Transmutation
 CastingTime: "#BonusAction, which you can take immediately after hitting or missing a target with a ranged attack using a weapon"
 Range: Self
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 4d8
 "Damage Type": Lightning

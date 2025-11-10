@@ -3,8 +3,13 @@ Level: 1
 School: Abjuration
 CastingTime: 1 minute or Ritual
 Range: 30 feet
-Components: V, S, M (a bell and silver wire)
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a bell and silver wire
+Concentration: false
+Duration: 8 hours
 Ritual: true
 Damage:
 Damage Type:

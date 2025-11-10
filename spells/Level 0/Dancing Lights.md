@@ -3,8 +3,13 @@ Level: 0
 School: Illusion
 CastingTime: Action
 Range: 120 feet
-Components: "V, S, M (a bit of phosphorus)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a bit of phosphorus
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

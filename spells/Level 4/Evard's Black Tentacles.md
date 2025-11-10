@@ -3,8 +3,13 @@ Level: 4
 School: Conjuration
 CastingTime: Action
 Range: 90 feet
-Components: "V, S, M (a tentacle)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a tentacle
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 3d6
 "Damage Type": Bludgeoning

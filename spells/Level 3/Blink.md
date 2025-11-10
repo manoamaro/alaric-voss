@@ -3,8 +3,11 @@ Level: 3
 School: Transmutation
 CastingTime: Action
 Range: Self
-Components: "V, S"
-Concentration: No (1 minute)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

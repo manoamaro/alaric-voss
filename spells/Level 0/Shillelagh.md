@@ -3,8 +3,13 @@ Level: 0
 School: Transmutation
 CastingTime: "#BonusAction"
 Range: Self
-Components: "V, S, M (mistletoe)"
-Concentration: No (1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: mistletoe
+Concentration: false
+Duration: 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

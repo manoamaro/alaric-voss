@@ -3,8 +3,13 @@ Level: 6
 School: Transmutation
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a lodestone and dust)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a lodestone and dust
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 10d6 + 40
 "Damage Type": Force

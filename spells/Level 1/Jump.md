@@ -3,8 +3,13 @@ Level: 1
 School: Transmutation
 CastingTime: "#BonusAction"
 Range: Touch
-Components: "V, S, M (a grasshopper's hind leg)"
-Concentration: No (1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a grasshopper's hind leg
+Concentration: false
+Duration: 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

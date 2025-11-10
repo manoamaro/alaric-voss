@@ -3,8 +3,13 @@ Level: 4
 School: Divination
 CastingTime: Action or Ritual
 Range: Self
-Components: "V, S, M (incense worth 25+ GP, which the spell consumes)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: incense worth 25+ GP, which the spell consumes
+Concentration: false
+Duration: Instantaneous
 Ritual: true
 Damage: null
 "Damage Type": null

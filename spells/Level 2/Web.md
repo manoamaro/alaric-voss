@@ -3,8 +3,13 @@ Level: 2
 School: Conjuration
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a bit of spiderweb)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a bit of spiderweb
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: 2d4
 "Damage Type": Fire

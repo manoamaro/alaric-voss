@@ -3,8 +3,12 @@ Level: 2
 School: Evocation
 CastingTime: Action
 Range: 60 feet
-Components: "V, M (bat fur and a piece of coal)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - M
+Material: bat fur and a piece of coal
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

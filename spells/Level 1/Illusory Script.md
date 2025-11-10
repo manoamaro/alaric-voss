@@ -3,8 +3,12 @@ Level: 1
 School: Illusion
 CastingTime: 1 minute or Ritual
 Range: Touch
-Components: "S, M (ink worth 10+ GP, which the spell consumes)"
-Concentration: No (10 days)
+Components:
+  - S
+  - M
+Material: ink worth 10+ GP, which the spell consumes
+Concentration: false
+Duration: 10 days
 Ritual: true
 Damage: null
 "Damage Type": null

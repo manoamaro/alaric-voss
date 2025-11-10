@@ -3,8 +3,11 @@ Level: 7
 School: Evocation
 CastingTime: Action
 Range: Self
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 12d6
 "Damage Type": Fire

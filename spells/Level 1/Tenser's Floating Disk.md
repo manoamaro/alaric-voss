@@ -3,8 +3,13 @@ Level: 1
 School: Conjuration
 CastingTime: Action or Ritual
 Range: 30 feet
-Components: "V, S, M (a drop of mercury)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a drop of mercury
+Concentration: false
+Duration: 1 hour
 Ritual: true
 Damage: null
 "Damage Type": null

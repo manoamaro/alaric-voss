@@ -3,8 +3,11 @@ Level: 2
 School: Divination
 CastingTime: Action
 Range: 120 feet
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

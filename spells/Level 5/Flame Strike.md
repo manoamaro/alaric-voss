@@ -3,8 +3,13 @@ Level: 5
 School: Evocation
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a pinch of sulfur)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a pinch of sulfur
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 5d6
 "Damage Type": Fire

@@ -3,8 +3,13 @@ Level: 4
 School: Transmutation
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a caterpillar cocoon)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a caterpillar cocoon
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

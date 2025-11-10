@@ -3,8 +3,13 @@ Level: 2
 School: Abjuration
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (gold dust worth 25+ GP, which the spell consumes)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: gold dust worth 25+ GP, which the spell consumes
+Concentration: false
+Duration: Until dispelled
 Ritual: false
 Damage: null
 "Damage Type": null

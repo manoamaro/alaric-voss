@@ -8,7 +8,7 @@
     "verbal": "checkbox",
     "somatic": "checkbox",
     "ritual": "checkbox",
-    "concentration": "text",
+    "concentration": "checkbox",
     "date": "date",
     "components": "multitext"
   }

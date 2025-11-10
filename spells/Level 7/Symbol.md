@@ -3,8 +3,13 @@ Level: 7
 School: Abjuration
 CastingTime: 1 minute
 Range: Touch
-Components: "V, S, M (powdered diamond worth 1,000+ GP, which the spell consumes)"
-Concentration: No (Until dispelled or triggered)
+Components:
+  - V
+  - S
+  - M
+Material: powdered diamond worth 1,000+ GP, which the spell consumes
+Concentration: false
+Duration: Until dispelled or triggered
 Ritual: false
 Damage: 10d10
 "Damage Type": Necrotic

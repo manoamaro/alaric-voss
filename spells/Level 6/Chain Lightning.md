@@ -3,8 +3,13 @@ Level: 6
 School: Evocation
 CastingTime: Action
 Range: 150 feet
-Components: "V, S, M (three silver pins)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: three silver pins
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 10d8
 "Damage Type": Lightning

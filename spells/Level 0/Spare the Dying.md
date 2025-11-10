@@ -3,8 +3,11 @@ Level: 0
 School: Necromancy
 CastingTime: Action
 Range: 15 feet
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

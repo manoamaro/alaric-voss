@@ -3,8 +3,13 @@ Level: 8
 School: Transmutation
 CastingTime: Action
 Range: 500 feet
-Components: "V, S, M (a fractured rock)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a fractured rock
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 12d6
 "Damage Type": Bludgeoning

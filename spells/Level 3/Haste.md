@@ -3,8 +3,13 @@ Level: 3
 School: Transmutation
 CastingTime: Action
 Range: 30 feet
-Components: "V, S, M (a shaving of licorice root)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a shaving of licorice root
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

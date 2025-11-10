@@ -3,8 +3,13 @@ Level: 2
 School: Necromancy
 CastingTime: Action or Ritual
 Range: Touch
-Components: "V, S, M (2 copper pieces, which the spell consume)"
-Concentration: No (10 days)
+Components:
+  - V
+  - S
+  - M
+Material: 2 copper pieces, which the spell consume
+Concentration: false
+Duration: 10 days
 Ritual: true
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 7
 School: Illusion
 CastingTime: 12 hours
 Range: Touch
-Components: "V, S, M (powdered ruby worth 1,500+ GP, which the spells consumes)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: powdered ruby worth 1,500+ GP, which the spells consumes
+Concentration: false
+Duration: Until dispelled
 Ritual: false
 Damage: null
 "Damage Type": null

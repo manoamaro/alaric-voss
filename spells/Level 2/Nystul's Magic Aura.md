@@ -3,8 +3,13 @@ Level: 2
 School: Illusion
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (a small square of silk)"
-Concentration: No (24 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a small square of silk
+Concentration: false
+Duration: 24 hours
 Ritual: false
 Damage: null
 "Damage Type": null

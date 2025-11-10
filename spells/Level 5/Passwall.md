@@ -3,8 +3,13 @@ Level: 5
 School: Transmutation
 CastingTime: Action
 Range: 30 feet
-Components: "V, S, M (a pinch of sesame seads)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a pinch of sesame seads
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

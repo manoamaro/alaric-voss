@@ -3,8 +3,12 @@ Level: 0
 School: Illusion
 CastingTime: Action
 Range: 30 feet
-Components: S, M (a bit of fleece)
-Concentration: No (1 minute)
+Components:
+  - S
+  - M
+Material: a bit of fleece
+Concentration: false
+Duration: 1 minute
 Ritual: false
 Damage:
 Damage Type:

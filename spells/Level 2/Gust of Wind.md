@@ -3,8 +3,13 @@ Level: 2
 School: Evocation
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a legume seed)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a legume seed
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 1
 School: Conjuration
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a sprig of mistletoe)"
-Concentration: No (24 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a sprig of mistletoe
+Concentration: false
+Duration: 24 hours
 Ritual: false
 Damage: null
 "Damage Type": null

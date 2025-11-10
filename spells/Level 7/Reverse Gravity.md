@@ -3,8 +3,13 @@ Level: 7
 School: Transmutation
 CastingTime: Action
 Range: 100 feet
-Components: "V, S, M (a lodestone and iron filings)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a lodestone and iron filings
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

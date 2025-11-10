@@ -3,8 +3,13 @@ Level: 6
 School: Abjuration
 CastingTime: 1 hour
 Range: Touch
-Components: "V, S, M (a silver rod worth 10+ GP)"
-Concentration: No (24 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a silver rod worth 10+ GP
+Concentration: false
+Duration: 24 hours
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 2
 School: Conjuration
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a sliver of glass)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a sliver of glass
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 4d4
 "Damage Type": Slashing

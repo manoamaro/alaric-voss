@@ -3,8 +3,13 @@ Level: 2
 School: Abjuration
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

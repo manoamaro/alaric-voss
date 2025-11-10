@@ -3,8 +3,11 @@ Level: 5
 School: Necromancy
 CastingTime: Action
 Range: Touch
-Components: "V, S"
-Concentration: No (7 days)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 7 days
 Ritual: false
 Damage: 11d8
 "Damage Type": Necrotic

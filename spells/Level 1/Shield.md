@@ -3,8 +3,11 @@ Level: 1
 School: Abjuration
 CastingTime: "#Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell"
 Range: Self
-Components: V, S
-Concentration: No (1 round)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 1 round
 Ritual: false
 Damage:
 Damage Type:

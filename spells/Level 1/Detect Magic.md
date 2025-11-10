@@ -3,8 +3,11 @@ Level: 1
 School: Divination
 CastingTime: Action or Ritual
 Range: Self
-Components: V, S
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+Concentration: true
+Duration: up to 10 minutes
 Ritual: true
 Damage:
 Damage Type:

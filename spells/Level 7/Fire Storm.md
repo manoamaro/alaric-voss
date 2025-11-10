@@ -3,8 +3,11 @@ Level: 7
 School: Evocation
 CastingTime: Action
 Range: 150 feet
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 7d10
 "Damage Type": Fire

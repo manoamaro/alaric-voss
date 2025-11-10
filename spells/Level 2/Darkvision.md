@@ -3,8 +3,13 @@ Level: 2
 School: Transmutation
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (a dried carrot)"
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a dried carrot
+Concentration: false
+Duration: 8 hours
 Ritual: false
 Damage: null
 "Damage Type": null

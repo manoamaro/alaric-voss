@@ -3,8 +3,13 @@ Level: 2
 School: Transmutation
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (a drop of bitumen and a spider)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a drop of bitumen and a spider
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

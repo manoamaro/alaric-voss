@@ -3,8 +3,13 @@ Level: 3
 School: Illusion
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a white feather)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a white feather
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

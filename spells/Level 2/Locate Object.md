@@ -3,8 +3,13 @@ Level: 2
 School: Divination
 CastingTime: Action
 Range: Self
-Components: V, S, M (a forked twig)
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a forked twig
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage:
 Damage Type:

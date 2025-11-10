@@ -3,8 +3,13 @@ Level: 2
 School: Transmutation
 CastingTime: "#BonusAction"
 Range: Touch
-Components: "V, S, M (a handful of bark)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a handful of bark
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

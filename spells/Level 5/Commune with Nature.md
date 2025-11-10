@@ -3,8 +3,11 @@ Level: 5
 School: Divination
 CastingTime: 1 minute or Ritual
 Range: Self
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: true
 Damage: null
 "Damage Type": null

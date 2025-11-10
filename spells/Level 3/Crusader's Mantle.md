@@ -3,8 +3,10 @@ Level: 3
 School: Evocation
 CastingTime: Action
 Range: Self
-Components: V
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 1d4
 "Damage Type": Radiant

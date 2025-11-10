@@ -3,8 +3,13 @@ Level: 5
 School: Evocation
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a small crystal or glass cone)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a small crystal or glass cone
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 8d8
 "Damage Type": Cold

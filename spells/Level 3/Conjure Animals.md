@@ -3,8 +3,11 @@ Level: 3
 School: Conjuration
 CastingTime: Action
 Range: 60 feet
-Components: "V, S"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: 3d10
 "Damage Type": Slashing

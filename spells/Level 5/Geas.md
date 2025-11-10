@@ -3,8 +3,10 @@ Level: 5
 School: Enchantment
 CastingTime: 1 minute
 Range: 60 feet
-Components: V
-Concentration: No (30 days)
+Components:
+  - V
+Concentration: false
+Duration: 30 days
 Ritual: false
 Damage: 5d10
 "Damage Type": Psychic

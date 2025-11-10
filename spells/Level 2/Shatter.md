@@ -3,8 +3,13 @@ Level: 2
 School: Evocation
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a chip of mica)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a chip of mica
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 3d8
 "Damage Type": Thunder

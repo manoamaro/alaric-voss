@@ -3,8 +3,13 @@ Level: 2
 School: Transmutation
 CastingTime: Action
 Range: 30 feet
-Components: "V, S, M (a pinch of powdered iron)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a pinch of powdered iron
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 1d4
 "Damage Type": Less

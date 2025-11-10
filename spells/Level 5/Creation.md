@@ -3,8 +3,13 @@ Level: 5
 School: Illusion
 CastingTime: 1 minute
 Range: 30 feet
-Components: "V, S, M (a paintbrush)"
-Concentration: No (Special)
+Components:
+  - V
+  - S
+  - M
+Material: a paintbrush
+Concentration: false
+Duration: Special
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 4
 School: Abjuration
 CastingTime: 10 minutes
 Range: 120 feet
-Components: "V, S, M (a thin sheet of lead)"
-Concentration: No (24 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a thin sheet of lead
+Concentration: false
+Duration: 24 hours
 Ritual: false
 Damage: null
 "Damage Type": null

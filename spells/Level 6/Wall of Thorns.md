@@ -3,8 +3,13 @@ Level: 6
 School: Conjuration
 CastingTime: Action
 Range: 120 feet
-Components: "V, S, M (a handful of thorns)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a handful of thorns
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: 7d8
 "Damage Type": Piercing

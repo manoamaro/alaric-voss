@@ -3,8 +3,12 @@ Level: 0
 School: Evocation
 CastingTime: Action
 Range: Touch
-Components: "V, M (a firefly or phosphorescent moss)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - M
+Material: a firefly or phosphorescent moss
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 1
 School: Conjuration
 CastingTime: Action or Ritual
 Range: 60 feet
-Components: "V, S, M (a bit of string and of wood)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a bit of string and of wood
+Concentration: false
+Duration: 1 hour
 Ritual: true
 Damage: null
 "Damage Type": null

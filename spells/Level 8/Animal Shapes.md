@@ -3,8 +3,11 @@ Level: 8
 School: Transmutation
 CastingTime: Action
 Range: 30 feet
-Components: "V, S"
-Concentration: No (24 hours)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 24 hours
 Ritual: false
 Damage: null
 "Damage Type": null

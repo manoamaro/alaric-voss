@@ -3,8 +3,13 @@ Level: 3
 School: Evocation
 CastingTime: 1 minute or Ritual
 Range: Self
-Components: "V, S, M (a crystal bead)"
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a crystal bead
+Concentration: false
+Duration: 8 hours
 Ritual: true
 Damage: null
 "Damage Type": null

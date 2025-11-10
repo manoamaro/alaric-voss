@@ -3,8 +3,13 @@ Level: 1
 School: Transmutation
 CastingTime: Action
 Range: 30 feet
-Components: "V, S, M (a mix of water and sand)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a mix of water and sand
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

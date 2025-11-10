@@ -3,8 +3,11 @@ Level: 6
 School: Abjuration
 CastingTime: Action
 Range: 60 feet
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 3
 School: Conjuration
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a prayer scroll)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a prayer scroll
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: 3d8
 "Damage Type": Radiant

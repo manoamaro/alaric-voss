@@ -3,8 +3,10 @@ Level: 5
 School: Divination
 CastingTime: 1 minute or Ritual
 Range: Self
-Components: V
-Concentration: No (1 minute)
+Components:
+  - V
+Concentration: false
+Duration: 1 minute
 Ritual: true
 Damage: 6d6
 "Damage Type": Psychic

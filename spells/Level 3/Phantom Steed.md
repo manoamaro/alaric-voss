@@ -3,8 +3,11 @@ Level: 3
 School: Illusion
 CastingTime: 1 minute or Ritual
 Range: 30 feet
-Components: "V, S"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 1 hour
 Ritual: true
 Damage: null
 "Damage Type": null

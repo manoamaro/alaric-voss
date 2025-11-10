@@ -3,8 +3,13 @@ Level: 2
 School: Abjuration
 CastingTime: Action
 Range: 30 feet
-Components: "V, S, M (a strip of white cloth)"
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a strip of white cloth
+Concentration: false
+Duration: 8 hours
 Ritual: false
 Damage: null
 "Damage Type": null

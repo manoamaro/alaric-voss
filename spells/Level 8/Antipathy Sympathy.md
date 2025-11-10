@@ -3,8 +3,13 @@ Level: 8
 School: Enchantment
 CastingTime: 1 hour
 Range: 60 feet
-Components: "V, S, M (a mix of vinegar and honey)"
-Concentration: No (10 days)
+Components:
+  - V
+  - S
+  - M
+Material: a mix of vinegar and honey
+Concentration: false
+Duration: 10 days
 Ritual: false
 Damage: null
 "Damage Type": null

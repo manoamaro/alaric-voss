@@ -3,8 +3,12 @@ Level: 3
 School: Divination
 CastingTime: Action
 Range: Touch
-Components: "V, M (a miniature ziggurat)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - M
+Material: a miniature ziggurat
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

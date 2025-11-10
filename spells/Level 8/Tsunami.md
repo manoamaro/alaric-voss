@@ -3,8 +3,11 @@ Level: 8
 School: Conjuration
 CastingTime: 1 minute
 Range: 1 mile
-Components: "V, S"
-Concentration: Yes (up to 6 rounds)
+Components:
+  - V
+  - S
+Concentration: true
+Duration: up to 6 rounds
 Ritual: false
 Damage: 6d10
 "Damage Type": Bludgeoning

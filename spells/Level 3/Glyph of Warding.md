@@ -3,8 +3,13 @@ Level: 3
 School: Abjuration
 CastingTime: 1 hour
 Range: Touch
-Components: "V, S, M (powdered diamond worth 200+ GP, which the spell consumes)"
-Concentration: No (Until dispelled or triggered You inscribe a glyph that later unleashes a magical effect.)
+Components:
+  - V
+  - S
+  - M
+Material: powdered diamond worth 200+ GP, which the spell consumes
+Concentration: false
+Duration: Until dispelled or triggered You inscribe a glyph that later unleashes a magical effect.
 Ritual: false
 Damage: null
 "Damage Type": null

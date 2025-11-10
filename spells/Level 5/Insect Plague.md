@@ -3,8 +3,13 @@ Level: 5
 School: Conjuration
 CastingTime: Action
 Range: 300 feet
-Components: "V, S, M (a locust)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a locust
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: 4d10
 "Damage Type": Piercing

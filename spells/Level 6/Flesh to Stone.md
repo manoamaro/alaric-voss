@@ -3,8 +3,13 @@ Level: 6
 School: Transmutation
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a cockatrice feather)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a cockatrice feather
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

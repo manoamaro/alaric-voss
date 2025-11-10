@@ -3,8 +3,13 @@ Level: 2
 School: Divination
 CastingTime: Action or Ritual
 Range: Self
-Components: "V, S, M (fur from a bloodhound)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: fur from a bloodhound
+Concentration: false
+Duration: Instantaneous
 Ritual: true
 Damage: null
 "Damage Type": null

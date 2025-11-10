@@ -3,8 +3,11 @@ Level: 4
 School: Transmutation
 CastingTime: 10 minutes
 Range: 120 feet
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

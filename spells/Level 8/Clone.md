@@ -3,8 +3,13 @@ Level: 8
 School: Necromancy
 CastingTime: 1 hour
 Range: Touch
-Components: "V, S, M (a diamond worth 1,000+ GP, which the spell consumes, and a vessel worth 2,000+ GP that is large enough to hold the creature being cloned)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a diamond worth 1,000+ GP, which the spell consumes, and a vessel worth 2,000+ GP that is large enough to hold the creature being cloned
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

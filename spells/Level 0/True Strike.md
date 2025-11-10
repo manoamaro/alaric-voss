@@ -3,8 +3,12 @@ Level: 0
 School: Divination
 CastingTime: Action
 Range: Self
-Components: S, M (a weapon with which you have proficiency and that is worth 1+ CP)
-Concentration: No (Instantaneous)
+Components:
+  - S
+  - M
+Material: a weapon with which you have proficiency and that is worth 1+ CP
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage:
 Damage Type:

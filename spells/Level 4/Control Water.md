@@ -3,8 +3,13 @@ Level: 4
 School: Transmutation
 CastingTime: Action
 Range: 300 feet
-Components: "V, S, M (a mixture of water and dust)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a mixture of water and dust
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: 2d8
 "Damage Type": Bludgeoning

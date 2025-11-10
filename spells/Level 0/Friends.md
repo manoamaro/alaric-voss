@@ -3,8 +3,12 @@ Level: 0
 School: Enchantment
 CastingTime: Action
 Range: 10 feet
-Components: "S, M (some makeup)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - S
+  - M
+Material: some makeup
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

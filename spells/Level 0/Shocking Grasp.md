@@ -3,8 +3,11 @@ Level: 0
 School: Evocation
 CastingTime: Action
 Range: Touch
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 1d8
 "Damage Type": Lightning

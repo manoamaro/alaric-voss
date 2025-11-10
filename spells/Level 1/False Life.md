@@ -3,8 +3,13 @@ Level: 1
 School: Necromancy
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a drop of alcohol)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a drop of alcohol
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

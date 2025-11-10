@@ -3,8 +3,13 @@ Level: 2
 School: Evocation
 CastingTime: Action
 Range: 120 feet
-Components: "V, S, M (a moonseed leaf)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a moonseed leaf
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 2d10
 "Damage Type": Radiant

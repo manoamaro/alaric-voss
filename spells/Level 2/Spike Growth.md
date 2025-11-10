@@ -3,8 +3,13 @@ Level: 2
 School: Transmutation
 CastingTime: Action
 Range: 150 feet
-Components: "V, S, M (seven thorns)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: seven thorns
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: 2d4
 "Damage Type": Piercing

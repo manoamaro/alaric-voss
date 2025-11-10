@@ -3,8 +3,13 @@ Level: 1
 School: Abjuration
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a flask of Holy Water worth 25+ GP, which the spell consumes
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

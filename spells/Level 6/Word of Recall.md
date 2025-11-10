@@ -3,8 +3,10 @@ Level: 6
 School: Conjuration
 CastingTime: Action
 Range: 5 feet
-Components: V
-Concentration: No (Instantaneous)
+Components:
+  - V
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

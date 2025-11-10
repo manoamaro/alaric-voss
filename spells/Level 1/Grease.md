@@ -3,8 +3,13 @@ Level: 1
 School: Conjuration
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a bit of pork rind or butter)"
-Concentration: No (1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a bit of pork rind or butter
+Concentration: false
+Duration: 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,10 @@ Level: 1
 School: Evocation
 CastingTime: "#BonusAction, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike"
 Range: Self
-Components: V
-Concentration: No (Instantaneous)
+Components:
+  - V
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 2d8
 "Damage Type": Radiant

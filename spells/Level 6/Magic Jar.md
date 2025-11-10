@@ -3,8 +3,13 @@ Level: 6
 School: Necromancy
 CastingTime: 1 minute
 Range: Self
-Components: "V, S, M (a gem, crystal, or reliquary worth 500+ GP)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: a gem, crystal, or reliquary worth 500+ GP
+Concentration: false
+Duration: Until dispelled
 Ritual: false
 Damage: null
 "Damage Type": null

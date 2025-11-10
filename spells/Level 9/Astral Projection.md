@@ -3,8 +3,13 @@ Level: 9
 School: Necromancy
 CastingTime: 1 hour
 Range: 10 feet
-Components: "V, S, M (for each of the spell's targes, one jacinth worth 1,000+ GP, all of which the spell consumes)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: for each of the spell's targes, one jacinth worth 1,000+ GP, all of which the spell consumes
+Concentration: false
+Duration: Until dispelled
 Ritual: false
 Damage: null
 "Damage Type": null

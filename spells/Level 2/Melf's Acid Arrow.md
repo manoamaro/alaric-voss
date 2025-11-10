@@ -3,8 +3,13 @@ Level: 2
 School: Evocation
 CastingTime: Action
 Range: 90 feet
-Components: "V, S, M (powdered rhubarb leaf)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: powdered rhubarb leaf
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 4d4
 "Damage Type": Acid

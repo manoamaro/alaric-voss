@@ -3,8 +3,13 @@ Level: 4
 School: Evocation
 CastingTime: Action
 Range: 300 feet
-Components: "V, S, M (a mitten)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a mitten
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 2d10
 "Damage Type": Bludgeoning

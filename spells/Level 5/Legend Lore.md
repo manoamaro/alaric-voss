@@ -3,8 +3,13 @@ Level: 5
 School: Divination
 CastingTime: 10 minutes
 Range: Self
-Components: "V, S, M (incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

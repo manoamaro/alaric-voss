@@ -3,8 +3,13 @@ Level: 4
 School: Conjuration
 CastingTime: Action
 Range: 30 feet
-Components: "V, S, M (a silver whistle)"
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a silver whistle
+Concentration: false
+Duration: 8 hours
 Ritual: false
 Damage: 4d8
 "Damage Type": Force

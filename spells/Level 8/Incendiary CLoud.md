@@ -3,8 +3,11 @@ Level: 8
 School: Conjuration
 CastingTime: Action
 Range: 150 feet
-Components: "V, S"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 10d8
 "Damage Type": Fire

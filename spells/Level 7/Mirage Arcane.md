@@ -3,8 +3,11 @@ Level: 7
 School: Illusion
 CastingTime: 10 minutes
 Range: Sight
-Components: "V, S"
-Concentration: No (10 days)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 10 days
 Ritual: false
 Damage: null
 "Damage Type": null

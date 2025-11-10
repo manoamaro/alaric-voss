@@ -3,8 +3,13 @@ Level: 6
 School: Necromancy
 CastingTime: Action
 Range: 150 feet
-Components: "V, S, M (the powder of a crushed black pearl worth 500+ GP)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: the powder of a crushed black pearl worth 500+ GP
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 8d8
 "Damage Type": Necrotic

@@ -3,8 +3,13 @@ Level: 0
 School: Transmutation
 CastingTime: 1 minute
 Range: Touch
-Components: "V, S, M (two lodestones)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: two lodestones
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

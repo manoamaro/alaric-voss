@@ -3,8 +3,10 @@ Level: 2
 School: Divination
 CastingTime: Action or Ritual
 Range: Touch
-Components: S
-Concentration: Yes (up to 1 hour)
+Components:
+  - S
+Concentration: true
+Duration: up to 1 hour
 Ritual: true
 Damage: null
 "Damage Type": null

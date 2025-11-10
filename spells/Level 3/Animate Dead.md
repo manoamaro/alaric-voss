@@ -3,8 +3,13 @@ Level: 3
 School: Necromancy
 CastingTime: 1 minute
 Range: 10 feet
-Components: "V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a drop of blood, a piece of flesh, and a pinch of bone dust
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

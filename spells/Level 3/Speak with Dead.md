@@ -3,8 +3,13 @@ Level: 3
 School: Necromancy
 CastingTime: Action
 Range: 10 feet
-Components: "V, S, M (burning incense)"
-Concentration: No (10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: burning incense
+Concentration: false
+Duration: 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

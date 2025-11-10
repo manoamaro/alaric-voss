@@ -3,8 +3,13 @@ Level: 6
 School: Evocation
 CastingTime: Action
 Range: 120 feet
-Components: "V, S, M (a piece of quartz)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a piece of quartz
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: 10d6
 "Damage Type": Cold

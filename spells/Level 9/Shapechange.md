@@ -3,8 +3,13 @@ Level: 9
 School: Transmutation
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a jade circlet worth 1,500+ GP)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a jade circlet worth 1,500+ GP
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

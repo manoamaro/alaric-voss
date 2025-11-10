@@ -3,8 +3,10 @@ Level: 4
 School: Abjuration
 CastingTime: Action
 Range: Self
-Components: V
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

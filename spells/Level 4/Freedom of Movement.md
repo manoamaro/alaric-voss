@@ -3,8 +3,13 @@ Level: 4
 School: Abjuration
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (a leather strap)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a leather strap
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 5
 School: Divination
 CastingTime: 10 minutes
 Range: Self
-Components: "V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

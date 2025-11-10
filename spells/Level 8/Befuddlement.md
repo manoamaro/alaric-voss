@@ -3,8 +3,13 @@ Level: 8
 School: Enchantment
 CastingTime: Action
 Range: 150 feet
-Components: "V, S, M (a key ring with no keys)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a key ring with no keys
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

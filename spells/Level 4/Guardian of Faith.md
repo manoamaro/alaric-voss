@@ -3,8 +3,10 @@ Level: 4
 School: Conjuration
 CastingTime: Action
 Range: 30 feet
-Components: V
-Concentration: No (8 hours)
+Components:
+  - V
+Concentration: false
+Duration: 8 hours
 Ritual: false
 Damage: null
 "Damage Type": null

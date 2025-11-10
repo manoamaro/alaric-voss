@@ -3,8 +3,13 @@ Level: 2
 School: Evocation
 CastingTime: "#BonusAction"
 Range: Self
-Components: "V, S, M (a sumac leaf)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a sumac leaf
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

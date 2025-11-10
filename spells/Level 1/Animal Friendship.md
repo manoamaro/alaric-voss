@@ -3,8 +3,13 @@ Level: 1
 School: Enchantment
 CastingTime: Action
 Range: 30 feet
-Components: "V, S, M (a morsel of food)"
-Concentration: No (24 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a morsel of food
+Concentration: false
+Duration: 24 hours
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,11 @@ Level: 3
 School: Transmutation
 CastingTime: Action (Overgrowth) or 8 hours (Enrichment)
 Range: 150 feet
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

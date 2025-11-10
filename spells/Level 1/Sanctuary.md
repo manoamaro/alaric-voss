@@ -3,8 +3,13 @@ Level: 1
 School: Abjuration
 CastingTime: "#BonusAction"
 Range: 30 feet
-Components: "V, S, M (a shard of glass from a mirror)"
-Concentration: No (1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a shard of glass from a mirror
+Concentration: false
+Duration: 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

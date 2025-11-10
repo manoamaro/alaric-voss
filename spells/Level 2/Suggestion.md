@@ -3,8 +3,12 @@ Level: 2
 School: Enchantment
 CastingTime: Action
 Range: 30 feet
-Components: "V, M (a drop of honey)"
-Concentration: Yes (up to 8 hours)
+Components:
+  - V
+  - M
+Material: a drop of honey
+Concentration: true
+Duration: up to 8 hours
 Ritual: false
 Damage: null
 "Damage Type": null

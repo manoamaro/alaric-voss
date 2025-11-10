@@ -3,8 +3,13 @@ Level: 6
 School: Transmutation
 CastingTime: Action
 Range: 120 feet
-Components: "V, S, M (an miniature showel)"
-Concentration: Yes (up to 2 hours)
+Components:
+  - V
+  - S
+  - M
+Material: an miniature showel
+Concentration: true
+Duration: up to 2 hours
 Ritual: false
 Damage: null
 "Damage Type": null

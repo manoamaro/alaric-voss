@@ -3,8 +3,13 @@ Level: 2
 School: Divination
 CastingTime: 1 minute or Ritual
 Range: Self
-Components: V, S, M (special marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: special marked sticks, bones, cards, or other divinatory tokens worth 25+ GP
+Concentration: false
+Duration: Instantaneous
 Ritual: true
 Damage:
 Damage Type:

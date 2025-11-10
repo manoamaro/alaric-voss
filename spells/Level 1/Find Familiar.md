@@ -3,8 +3,13 @@ Level: 1
 School: Conjuration
 CastingTime: 1 hour or Ritual
 Range: 10 feet
-Components: V, S, M (burning incense worth 10+ GP, which the spell consumes)
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: burning incense worth 10+ GP, which the spell consumes
+Concentration: false
+Duration: Instantaneous
 Ritual: true
 Damage:
 Damage Type:

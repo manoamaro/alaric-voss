@@ -3,8 +3,13 @@ Level: 8
 School: Evocation
 CastingTime: Action
 Range: 150 feet
-Components: "V, S, M (piece of sunstone)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: piece of sunstone
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 12d6
 "Damage Type": Radiant

@@ -3,8 +3,12 @@ Level: 1
 School: Conjuration
 CastingTime: Action
 Range: 60 feet
-Components: "S, M (a drop of water or a piece of ice)"
-Concentration: No (Instantaneous)
+Components:
+  - S
+  - M
+Material: a drop of water or a piece of ice
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 1d10
 "Damage Type": Piercing

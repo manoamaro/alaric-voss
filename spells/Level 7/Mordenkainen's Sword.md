@@ -3,8 +3,13 @@ Level: 7
 School: Evocation
 CastingTime: Action
 Range: 90 feet
-Components: "V, S, M (a miniature sword worth 250+ GP)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a miniature sword worth 250+ GP
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

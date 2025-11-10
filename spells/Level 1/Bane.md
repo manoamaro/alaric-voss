@@ -3,8 +3,13 @@ Level: 1
 School: Enchantment
 CastingTime: Action
 Range: 30 feet
-Components: "V, S, M (a drop of blood)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a drop of blood
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

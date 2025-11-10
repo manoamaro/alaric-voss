@@ -10,11 +10,12 @@ views:
       - Spell Book
       - level
       - CastingTime
-      - range
+      - Range
+      - Duration
       - components
       - concentration
       - ritual
-      - damage
+      - Damage
       - Damage Type
     sort:
       - property: level
@@ -24,7 +25,9 @@ views:
     cardSize: 200
     imageAspectRatio: 0.85
     columnSize:
-      note.concentration: 201
+      note.CastingTime: 130
+      note.components: 117
+      note.concentration: 128
   - type: table
     name: Cantrips
     filters:

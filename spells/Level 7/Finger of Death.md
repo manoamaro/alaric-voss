@@ -3,8 +3,11 @@ Level: 7
 School: Necromancy
 CastingTime: Action
 Range: 60 feet
-Components: "V, S"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 7d8 + 30
 "Damage Type": Necrotic

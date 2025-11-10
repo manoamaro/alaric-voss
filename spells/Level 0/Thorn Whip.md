@@ -3,8 +3,13 @@ Level: 0
 School: Transmutation
 CastingTime: Action
 Range: 30 feet
-Components: "V, S, M (the stem of a thorny plant)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: the stem of a thorny plant
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 1d6
 "Damage Type": Piercing

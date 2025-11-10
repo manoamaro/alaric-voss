@@ -3,8 +3,13 @@ Level: 1
 School: Evocation
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a twig struck by lightning)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a twig struck by lightning
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 2d12
 "Damage Type": Lightning

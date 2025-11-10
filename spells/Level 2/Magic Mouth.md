@@ -3,8 +3,13 @@ Level: 2
 School: Illusion
 CastingTime: 1 minute or Ritual
 Range: 30 feet
-Components: "V, S, M (jade dust worth 10+ GP, which the spell consumes)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: jade dust worth 10+ GP, which the spell consumes
+Concentration: false
+Duration: Until dispelled
 Ritual: true
 Damage: null
 "Damage Type": null

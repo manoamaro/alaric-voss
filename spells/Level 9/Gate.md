@@ -3,8 +3,13 @@ Level: 9
 School: Conjuration
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a diamond worth 5,000+ GP)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a diamond worth 5,000+ GP
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 3
 School: Conjuration
 CastingTime: Action
 Range: 90 feet
-Components: "V, S, M (a rotten egg)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a rotten egg
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

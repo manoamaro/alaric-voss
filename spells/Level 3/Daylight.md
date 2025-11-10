@@ -3,8 +3,11 @@ Level: 3
 School: Evocation
 CastingTime: Action
 Range: 60 feet
-Components: "V, S"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

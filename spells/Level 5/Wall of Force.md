@@ -3,8 +3,13 @@ Level: 5
 School: Evocation
 CastingTime: Action
 Range: 120 feet
-Components: "V, S, M (a sharp of glass)"
-Concentration: Yes (up to 10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a sharp of glass
+Concentration: true
+Duration: up to 10 minutes
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 1
 School: Divination
 CastingTime: Action or Ritual
 Range: Self
-Components: "V, S, M (a pinch of soot and salt)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a pinch of soot and salt
+Concentration: false
+Duration: 1 hour
 Ritual: true
 Damage: null
 "Damage Type": null

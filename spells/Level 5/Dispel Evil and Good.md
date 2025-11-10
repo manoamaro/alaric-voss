@@ -3,8 +3,13 @@ Level: 5
 School: Abjuration
 CastingTime: Action
 Range: Self
-Components: "V, S, M (powdered silver and iron)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: powdered silver and iron
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

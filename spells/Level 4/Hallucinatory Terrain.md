@@ -3,8 +3,13 @@ Level: 4
 School: Illusion
 CastingTime: 10 minutes
 Range: 300 feet
-Components: "V, S, M (a mushroom)"
-Concentration: No (24 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a mushroom
+Concentration: false
+Duration: 24 hours
 Ritual: false
 Damage: null
 "Damage Type": null

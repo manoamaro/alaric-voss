@@ -3,8 +3,12 @@ Level: 5
 School: Conjuration
 CastingTime: 1 minute
 Range: 10 feet
-Components: "V, M (rare inks worth 50+ GP, which the spell consumes)"
-Concentration: No (1 round)
+Components:
+  - V
+  - M
+Material: rare inks worth 50+ GP, which the spell consumes
+Concentration: false
+Duration: 1 round
 Ritual: false
 Damage: null
 "Damage Type": null

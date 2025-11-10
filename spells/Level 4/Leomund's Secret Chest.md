@@ -3,8 +3,13 @@ Level: 4
 School: Conjuration
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (a chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth 5,000+ GP, and a Tiny replica of the chest made from the same materials worth 50+ GP)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth 5,000+ GP, and a Tiny replica of the chest made from the same materials worth 50+ GP
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,10 @@ Level: 0
 School: Evocation
 CastingTime: Action
 Range: Self
-Components: S
-Concentration: No (Instantaneous)
+Components:
+  - S
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 1d6
 "Damage Type": Thunder

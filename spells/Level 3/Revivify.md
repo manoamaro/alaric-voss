@@ -3,8 +3,13 @@ Level: 3
 School: Necromancy
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (diamonds worth 300+ GP, which the spell consumes)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: diamonds worth 300+ GP, which the spell consumes
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

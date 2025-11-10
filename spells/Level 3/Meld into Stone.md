@@ -3,8 +3,11 @@ Level: 3
 School: Transmutation
 CastingTime: "Action or #Ritual"
 Range: Touch
-Components: "V, S"
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+Concentration: false
+Duration: 8 hours
 Ritual: true
 Damage: 6d6
 "Damage Type": Force

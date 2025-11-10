@@ -3,8 +3,13 @@ Level: 6
 School: Divination
 CastingTime: 1 minute
 Range: Self
-Components: "V, S, M (a set of divination tools-such as cards or runes-worth 100+ GP)"
-Concentration: Yes (up to 1 day)
+Components:
+  - V
+  - S
+  - M
+Material: a set of divination tools-such as cards or runes-worth 100+ GP
+Concentration: true
+Duration: up to 1 day
 Ritual: false
 Damage: null
 "Damage Type": null

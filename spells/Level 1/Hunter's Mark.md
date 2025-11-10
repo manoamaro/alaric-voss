@@ -3,8 +3,10 @@ Level: 1
 School: Divination
 CastingTime: "#BonusAction"
 Range: 90 feet
-Components: V
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: 1d6
 "Damage Type": Force

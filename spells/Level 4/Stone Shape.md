@@ -3,8 +3,13 @@ Level: 4
 School: Transmutation
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (soft clay)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: soft clay
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

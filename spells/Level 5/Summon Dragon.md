@@ -3,8 +3,13 @@ Level: 5
 School: Conjuration
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: an object with the image of a dragon engraved on it worth 500+ GP
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

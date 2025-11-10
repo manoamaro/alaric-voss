@@ -3,8 +3,10 @@ Level: 1
 School: Conjuration
 CastingTime: "#BonusAction, which you take immediately after hitting a creature with a Ranged weapon"
 Range: Self
-Components: V
-Concentration: No (Instantaneous)
+Components:
+  - V
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: 1d10
 "Damage Type": Piercing

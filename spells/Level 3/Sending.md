@@ -3,8 +3,13 @@ Level: 3
 School: Divination
 CastingTime: Action
 Range: Unlimited
-Components: "V, S, M (a copper wire)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a copper wire
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,13 @@ Level: 5
 School: Abjuration
 CastingTime: 24 hours
 Range: Touch
-Components: "V, S, M (incense worth 1,000+ GP, which the spell consumes)"
-Concentration: No (Until dispelled)
+Components:
+  - V
+  - S
+  - M
+Material: incense worth 1,000+ GP, which the spell consumes
+Concentration: false
+Duration: Until dispelled
 Ritual: false
 Damage: null
 "Damage Type": null

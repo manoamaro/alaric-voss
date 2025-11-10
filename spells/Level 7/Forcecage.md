@@ -3,8 +3,13 @@ Level: 7
 School: Evocation
 CastingTime: Action
 Range: 100 feet
-Components: "V, S, M (ruby dust worth 1,500+ GP, which the spell consumes)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: ruby dust worth 1,500+ GP, which the spell consumes
+Concentration: false
+Duration: 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

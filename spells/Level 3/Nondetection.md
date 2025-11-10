@@ -3,8 +3,13 @@ Level: 3
 School: Abjuration
 CastingTime: Action
 Range: Touch
-Components: "V, S, M (a pinch of diamond dust worth 25+ GP, which the spell consumes)"
-Concentration: No (8 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a pinch of diamond dust worth 25+ GP, which the spell consumes
+Concentration: false
+Duration: 8 hours
 Ritual: false
 Damage: null
 "Damage Type": null

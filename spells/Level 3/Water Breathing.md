@@ -3,8 +3,13 @@ Level: 3
 School: Transmutation
 CastingTime: Action or Ritual
 Range: 30 feet
-Components: "V, S, M (a short reed)"
-Concentration: No (24 hours)
+Components:
+  - V
+  - S
+  - M
+Material: a short reed
+Concentration: false
+Duration: 24 hours
 Ritual: true
 Damage: null
 "Damage Type": null

@@ -3,8 +3,10 @@ Level: 1
 School: Evocation
 CastingTime: "#BonusAction, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike"
 Range: Self
-Components: V
-Concentration: No (1 minute)
+Components:
+  - V
+Concentration: false
+Duration: 1 minute
 Ritual: false
 Damage: 1d6
 "Damage Type": Fire

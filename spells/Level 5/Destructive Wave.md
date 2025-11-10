@@ -3,8 +3,10 @@ Level: 5
 School: Evocation
 CastingTime: Action
 Range: Self
-Components: V
-Concentration: No (Instantaneous)
+Components:
+  - V
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

@@ -3,8 +3,12 @@ Level: 6
 School: Enchantment
 CastingTime: Action
 Range: 60 feet
-Components: "V, M (a snake's tongue)"
-Concentration: No (24 hours)
+Components:
+  - V
+  - M
+Material: a snake's tongue
+Concentration: false
+Duration: 24 hours
 Ritual: false
 Damage: null
 "Damage Type": null

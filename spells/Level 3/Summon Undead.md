@@ -3,8 +3,13 @@ Level: 3
 School: Necromancy
 CastingTime: Action
 Range: 90 feet
-Components: "V, S, M (a gilded skull worth 300+ GP)"
-Concentration: Yes (up to 1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a gilded skull worth 300+ GP
+Concentration: true
+Duration: up to 1 hour
 Ritual: false
 Damage: null
 "Damage Type": null

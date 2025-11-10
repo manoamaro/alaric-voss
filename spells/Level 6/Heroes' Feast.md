@@ -3,8 +3,13 @@ Level: 6
 School: Conjuration
 CastingTime: 10 minutes
 Range: Self
-Components: "V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)"
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a gem-encrusted bowl worth 1,000+ GP, which the spell consumes
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

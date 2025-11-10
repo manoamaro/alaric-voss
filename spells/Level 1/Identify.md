@@ -3,8 +3,13 @@ Level: 1
 School: Divination
 CastingTime: 1 minute or Ritual
 Range: Touch
-Components: V, S, M (a pearl worth 100+ GP)
-Concentration: No (Instantaneous)
+Components:
+  - V
+  - S
+  - M
+Material: a pearl worth 100+ GP
+Concentration: false
+Duration: Instantaneous
 Ritual: true
 Damage:
 Damage Type:

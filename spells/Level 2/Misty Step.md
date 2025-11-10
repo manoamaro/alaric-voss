@@ -3,8 +3,10 @@ Level: 2
 School: Conjuration
 CastingTime: "#BonusAction"
 Range: Self
-Components: V
-Concentration: No (Instantaneous)
+Components:
+  - V
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage:
 Damage Type:

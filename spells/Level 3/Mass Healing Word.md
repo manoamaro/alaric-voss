@@ -3,8 +3,10 @@ Level: 3
 School: Abjuration
 CastingTime: "#BonusAction"
 Range: 60 feet
-Components: V
-Concentration: No (Instantaneous)
+Components:
+  - V
+Concentration: false
+Duration: Instantaneous
 Ritual: false
 Damage: null
 "Damage Type": null

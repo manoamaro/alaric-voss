@@ -3,8 +3,13 @@ Level: 6
 School: Abjuration
 CastingTime: 10 minutes or Ritual
 Range: Touch
-Components: "V, S, M (ruby dust worth 1,000+ GP)"
-Concentration: No (1 day)
+Components:
+  - V
+  - S
+  - M
+Material: ruby dust worth 1,000+ GP
+Concentration: false
+Duration: 1 day
 Ritual: true
 Damage: null
 "Damage Type": null

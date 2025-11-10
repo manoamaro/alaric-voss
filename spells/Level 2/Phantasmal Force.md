@@ -3,8 +3,13 @@ Level: 2
 School: Illusion
 CastingTime: Action
 Range: 60 feet
-Components: "V, S, M (a bit of fleece)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - V
+  - S
+  - M
+Material: a bit of fleece
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: 2d8
 "Damage Type": Psychic

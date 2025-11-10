@@ -3,8 +3,12 @@ Level: 3
 School: Illusion
 CastingTime: Action
 Range: 120 feet
-Components: "S, M (a pinch of confetti)"
-Concentration: Yes (up to 1 minute)
+Components:
+  - S
+  - M
+Material: a pinch of confetti
+Concentration: true
+Duration: up to 1 minute
 Ritual: false
 Damage: null
 "Damage Type": null

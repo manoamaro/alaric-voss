@@ -3,8 +3,13 @@ Level: 4
 School: Evocation
 CastingTime: Action
 Range: Self
-Components: "V, S, M (a bit of phosphorus or a firefly)"
-Concentration: No (10 minutes)
+Components:
+  - V
+  - S
+  - M
+Material: a bit of phosphorus or a firefly
+Concentration: false
+Duration: 10 minutes
 Ritual: false
 Damage: 2d8
 "Damage Type": Fire

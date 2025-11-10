@@ -3,8 +3,13 @@ Level: 3
 School: Necromancy
 CastingTime: Action or Ritual
 Range: Touch
-Components: "V, S, M (a pinch of graveyard dirt)"
-Concentration: No (1 hour)
+Components:
+  - V
+  - S
+  - M
+Material: a pinch of graveyard dirt
+Concentration: false
+Duration: 1 hour
 Ritual: true
 Damage: null
 "Damage Type": null
