@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "level": "number",
+    "school": "text",
+    "verbal": "checkbox",
+    "somatic": "checkbox",
+    "ritual": "checkbox",
+    "concentration": "text",
+    "date": "date",
+    "components": "multitext"
+  }
+}

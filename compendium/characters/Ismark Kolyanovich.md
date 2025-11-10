@@ -1,0 +1,1 @@
+![[ismark_kolyanovich.png|300]]

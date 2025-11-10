@@ -1,0 +1,25 @@
+---
+Level: 2
+School: Divination
+CastingTime: Action
+Range: Self
+Components: "V, S, M (a forked twig)"
+Concentration: Yes (up to 10 minutes)
+Ritual: false
+Damage: null
+"Damage Type": null
+Upgrade: null
+Spell Book: false
+Prepared: false
+Classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+  - Wizard
+---
+
+Describe or name an object that is familiar to you. You sense the direction to the object's location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement. 
+The spell can locate a specific object known to you if you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon. 
+This spell can't locate an object if any thickness of lead blocks a direct path between you and the object

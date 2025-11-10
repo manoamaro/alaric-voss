@@ -1,0 +1,136 @@
+filters:
+  and:
+    - file.inFolder("spells")
+    - Classes.contains("Wizard")
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - Spell Book
+      - Prepared
+      - level
+      - school
+      - CastingTime
+      - range
+      - components
+      - concentration
+      - ritual
+      - damage
+      - upgrade
+      - Damage Type
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    cardSize: 200
+    imageAspectRatio: 0.85
+  - type: table
+    name: Cantrips
+    filters:
+      and:
+        - level == 0
+        - note["Spell Book"] == true
+    order:
+      - file.name
+      - level
+      - school
+      - CastingTime
+      - range
+      - components
+      - concentration
+      - ritual
+      - damage
+      - upgrade
+      - Damage Type
+      - Prepared
+      - Spell Book
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    cardSize: 200
+    imageAspectRatio: 0.85
+  - type: table
+    name: Level 1
+    filters:
+      and:
+        - level == 1
+        - note["Spell Book"] == true
+    order:
+      - file.name
+      - level
+      - school
+      - CastingTime
+      - range
+      - components
+      - concentration
+      - ritual
+      - damage
+      - upgrade
+      - Damage Type
+      - Prepared
+      - Spell Book
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    cardSize: 200
+    imageAspectRatio: 0.85
+  - type: table
+    name: Level 2
+    filters:
+      and:
+        - level == 2
+        - note["Spell Book"] == true
+    order:
+      - file.name
+      - level
+      - school
+      - CastingTime
+      - range
+      - components
+      - concentration
+      - ritual
+      - damage
+      - upgrade
+      - Damage Type
+      - Prepared
+      - Spell Book
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    cardSize: 200
+    imageAspectRatio: 0.85
+  - type: table
+    name: Level 3
+    filters:
+      and:
+        - level == 3
+        - note["Spell Book"] == true
+    order:
+      - file.name
+      - level
+      - school
+      - CastingTime
+      - range
+      - components
+      - concentration
+      - ritual
+      - damage
+      - upgrade
+      - Damage Type
+      - Prepared
+      - Spell Book
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    cardSize: 200
+    imageAspectRatio: 0.85

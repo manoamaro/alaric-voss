@@ -1,0 +1,20 @@
+---
+Level: 4
+School: Illusion
+CastingTime: Action
+Range: Touch
+Components: "V, S"
+Concentration: Yes (up to 1 minute)
+Ritual: false
+Damage: null
+"Damage Type": null
+Upgrade: null
+Spell Book: false
+Prepared: false
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+---
+
+A creature you touch has the Invisible condition until the spell ends.

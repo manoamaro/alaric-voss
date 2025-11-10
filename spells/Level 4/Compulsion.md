@@ -1,0 +1,19 @@
+---
+Level: 4
+School: Enchantment
+CastingTime: Action
+Range: 30 feet
+Components: "V, S"
+Concentration: Yes (up to 1 minute)
+Ritual: false
+Damage: null
+"Damage Type": null
+Upgrade: null
+Spell Book: false
+Prepared: false
+Classes:
+  - Bard
+---
+
+Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition until the spell ends. 
+For the duration, you can take a Bonus Action to designate a direction that is horizontal to you. Each Charmed target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.

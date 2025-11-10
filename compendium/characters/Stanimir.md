@@ -1,0 +1,1 @@
+![[stanimir.jpg|400]]

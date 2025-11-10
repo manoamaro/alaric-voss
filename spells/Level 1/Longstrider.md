@@ -1,0 +1,23 @@
+---
+Level: 1
+School: Transmutation
+CastingTime: Action
+Range: Touch
+Components: "V, S, M (a pinch of dirt)"
+Concentration: No (1 hour)
+Ritual: false
+Damage: null
+"Damage Type": null
+Upgrade: Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1
+Spell Book: false
+Prepared: false
+Classes:
+  - Bard
+  - Druid
+  - Ranger
+  - Wizard
+---
+
+You touch a creature. The target's Speed increases by 10 feet until the spell ends. 
+
+Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1

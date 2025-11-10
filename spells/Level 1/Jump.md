@@ -1,0 +1,23 @@
+---
+Level: 1
+School: Transmutation
+CastingTime: "#BonusAction"
+Range: Touch
+Components: "V, S, M (a grasshopper's hind leg)"
+Concentration: No (1 minute)
+Ritual: false
+Damage: null
+"Damage Type": null
+Upgrade: Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1
+Spell Book: false
+Prepared: false
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
+---
+
+You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement. 
+
+Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1
