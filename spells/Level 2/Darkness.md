@@ -19,6 +19,8 @@ Classes:
   - Sorcerer
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 For the duration, magical Darkness spreads from a point within range and fills a 15-foot-radius Sphere. Darkvision can't see through it, and nonmagical light can't illuminate it.

@@ -20,6 +20,8 @@ Classes:
   - Cleric
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the Unconscious condition, doesn't need food or air, and doesn't age.

@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Cleric
   - Paladin
+tags:
+  - spell
 ---
 
 For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions.

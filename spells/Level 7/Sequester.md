@@ -18,6 +18,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Wizard
+tags:
+  - spell
 ---
 
 With a touch, you magically sequester an object or a willing creature. For the duration, the target has the Invisible condition and can't be targeted by Divination spells, detected by magic, or viewed remotely with magic.

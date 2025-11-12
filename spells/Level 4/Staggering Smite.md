@@ -15,6 +15,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Paladin
+tags:
+  - spell
 ---
 
 The target takes an extra 4d6 Psychic damage from the attack, and the target must succeed on a Wisdom saving throw or have the Stunned condition until the end of your next turn.

@@ -18,6 +18,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Ranger
+tags:
+  - spell
 ---
 
 Description not available (not OGL)

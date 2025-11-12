@@ -21,6 +21,8 @@ Classes:
   - Druid
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 Description not available (not OGL)

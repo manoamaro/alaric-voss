@@ -20,6 +20,8 @@ Classes:
   - Druid
   - Ranger
   - Wizard
+tags:
+  - spell
 ---
 
 You call forth an Elemental spirit. It manifests in an unoccupied space that you can see within range and uses the **Elemental Spirit** stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain details in its stat block. The creature disappears when it drops to O Hit Points or when the spell ends.

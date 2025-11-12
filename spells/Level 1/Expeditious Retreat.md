@@ -18,6 +18,8 @@ Classes:
   - Sorcerer
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action

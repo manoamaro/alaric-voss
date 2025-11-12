@@ -18,6 +18,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Wizard
+tags:
+  - spell
 ---
 
 You hide a chest and all its contents on the Ethereal Plane. You must touch the chest and the miniature replica that serve as Material components for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).

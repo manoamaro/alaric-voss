@@ -17,6 +17,8 @@ Prepared: false
 Classes:
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a Magic action to replace the option you chose with a different one.

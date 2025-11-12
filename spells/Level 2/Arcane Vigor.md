@@ -17,6 +17,8 @@ Prepared: false
 Classes:
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You tap into your life force to heal yourself. Roll one or two of your unexpended Hit Point Dice, and regain a number of Hit Points equal to the roll's total plus your spellcasting ability modifier. Those dice are then expended.

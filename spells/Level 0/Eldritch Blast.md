@@ -16,6 +16,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Warlock
+tags:
+  - spell
 ---
 
 You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes 1d10 Force damage.

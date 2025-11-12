@@ -20,6 +20,8 @@ Classes:
   - Bard
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns.

@@ -16,6 +16,8 @@ Prepared: false
 Classes:
   - Bard
   - Wizard
+tags:
+  - spell
 ---
 
 Description not available (not OGL)

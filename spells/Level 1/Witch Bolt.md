@@ -20,6 +20,8 @@ Classes:
   - Sorcerer
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.

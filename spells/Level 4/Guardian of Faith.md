@@ -15,6 +15,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Cleric
+tags:
+  - spell
 ---
 
 A Large spectral guardian appears and hovers for the duration in an unoccupied space that you can see within range. The guardian occupies that space and is invulnerable, and it appears in a form appropriate for your deity or pantheon.

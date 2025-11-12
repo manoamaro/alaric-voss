@@ -18,6 +18,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Wizard
+tags:
+  - spell
 ---
 
 You call forth the spirit of a Construct. It manifests in an unoccupied space that you can see within range and uses the **Construct Spirit** stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles an animate statue (you determine the appearance) made of the chosen material, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.

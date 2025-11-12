@@ -22,6 +22,8 @@ Classes:
   - Sorcerer
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the City of Brass on the Elemental Plane of Fire or the palace of Dispater on the second level of the Nine Hells, and you appear in or near that destination, as determined by the DM.

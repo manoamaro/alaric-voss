@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Cleric
   - Druid
+tags:
+  - spell
 ---
 
 You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. The creature is revived with all its Hit Points.

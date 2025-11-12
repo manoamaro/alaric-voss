@@ -18,6 +18,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Wizard
+tags:
+  - spell
 ---
 
 With a touch, you place an illusion on a willing creature or an object that isn't being worn or carried. A creature gains the Mask effect below, and an object gains the False Aura effect below. The effect lasts for the duration. If you cast the spell on the same target every day for 30 days, the illusion lasts until dispelled.

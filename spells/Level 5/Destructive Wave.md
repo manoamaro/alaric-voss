@@ -15,6 +15,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Paladin
+tags:
+  - spell
 ---
 
 Description not available (not OGL).

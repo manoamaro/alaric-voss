@@ -22,6 +22,8 @@ Classes:
   - Sorcerer
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 For the duration, the willing creature you touch has Truesight with a range of 120 feet.

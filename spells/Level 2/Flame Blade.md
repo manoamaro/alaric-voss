@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Druid
   - Sorcerer
+tags:
+  - spell
 ---
 
 You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a Bonus Action.

@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Cleric
   - Paladin
+tags:
+  - spell
 ---
 
 You call forth a Celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range and uses the Celestial Spirit stat block. When you cast the spell, choose Avenger or Defender. Your choice determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.

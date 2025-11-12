@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Cleric
   - Wizard
+tags:
+  - spell
 ---
 
 An aura of antimagic surrounds you in 10-foot Emanation. No one can cast spells, take Magic actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it.

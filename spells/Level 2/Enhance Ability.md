@@ -23,6 +23,8 @@ Classes:
   - Ranger
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has Advantage on ability checks using the chosen ability.

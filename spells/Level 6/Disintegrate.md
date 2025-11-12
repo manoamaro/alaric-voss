@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by Wall of Force.

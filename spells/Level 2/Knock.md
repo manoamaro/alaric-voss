@@ -17,6 +17,8 @@ Classes:
   - Bard
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access. A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.

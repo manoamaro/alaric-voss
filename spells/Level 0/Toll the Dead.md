@@ -18,6 +18,8 @@ Classes:
   - Cleric
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 You point at one creature you can see within range, and the single chime of a dolorous bell is audible within 10 feet of the target. The target must succeed on a Wisdom saving throw or take 1d8 Necrotic damage. If the target is missing any of its Hit Points it instead takes 1d12 Necrotic damage.

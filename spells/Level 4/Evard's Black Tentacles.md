@@ -18,6 +18,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Wizard
+tags:
+  - spell
 ---
 
 Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into Difficult Terrain.

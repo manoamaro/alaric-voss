@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Cleric
   - Paladin
+tags:
+  - spell
 ---
 
 You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has Resistance to all damage. Also, each time it takes damage, you take the same amount of damage.

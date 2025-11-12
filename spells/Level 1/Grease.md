@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.

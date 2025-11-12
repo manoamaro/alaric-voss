@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You gain 2d4 + 4 Temporary Hit Points.

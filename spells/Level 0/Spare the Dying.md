@@ -17,6 +17,8 @@ Prepared: false
 Classes:
   - Cleric
   - Druid
+tags:
+  - spell
 ---
 
 Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.

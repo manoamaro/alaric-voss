@@ -22,6 +22,8 @@ Classes:
   - Druid
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn’t know what it is making the save against, only that it feels uneasy.

@@ -21,6 +21,8 @@ Classes:
   - Cleric
   - Druid
   - Ranger
+tags:
+  - spell
 ---
 
 You touch a willing creature. For the duration, the target's movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce the target's Speed nor cause the target to have the Paralyzed or Restrained conditions. The target also has a Swim Speed equal to its Speed.

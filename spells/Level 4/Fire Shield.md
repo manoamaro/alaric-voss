@@ -20,6 +20,8 @@ Classes:
   - Druid
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 Wispy flames wreathe your body for the duration, shedding Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you Resistance to Cold damage, and the chill shield grants you Resistance to Fire damage.

@@ -18,6 +18,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Cleric
+tags:
+  - spell
 ---
 
 You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.

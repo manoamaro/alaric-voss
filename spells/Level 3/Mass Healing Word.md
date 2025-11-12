@@ -16,6 +16,8 @@ Prepared: false
 Classes:
   - Bard
   - Cleric
+tags:
+  - spell
 ---
 
 Up to six creatures of your choice that you can see within range regain Hit Points equal to 2d4 plus your spellcasting ability modifier.

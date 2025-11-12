@@ -15,6 +15,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Ranger
+tags:
+  - spell
 ---
 
 You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.

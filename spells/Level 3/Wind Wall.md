@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Druid
   - Ranger
+tags:
+  - spell
 ---
 
 A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.

@@ -20,6 +20,8 @@ Classes:
   - Cleric
   - Paladin
   - Wizard
+tags:
+  - spell
 ---
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and can't become Undead.

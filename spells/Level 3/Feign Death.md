@@ -21,6 +21,8 @@ Classes:
   - Cleric
   - Druid
   - Wizard
+tags:
+  - spell
 ---
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.

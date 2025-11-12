@@ -20,6 +20,8 @@ Classes:
   - Druid
   - Paladin
   - Ranger
+tags:
+  - spell
 ---
 
 A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.

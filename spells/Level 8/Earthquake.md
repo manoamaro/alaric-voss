@@ -20,6 +20,8 @@ Classes:
   - Cleric
   - Druid
   - Sorcerer
+tags:
+  - spell
 ---
 
 Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100- foot-radius circle centered on that point. The ground there is Difficult Terrain.

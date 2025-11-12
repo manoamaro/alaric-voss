@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 You call forth an Undead spirit. It manifests in an unoccupied space that you can see within range and uses the Undead Spirit stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an Undead creature with the chosen form, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.

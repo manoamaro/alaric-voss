@@ -16,6 +16,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Cleric
+tags:
+  - spell
 ---
 
 A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.

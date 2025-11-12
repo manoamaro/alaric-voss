@@ -20,6 +20,8 @@ Classes:
   - Bard
   - Cleric
   - Druid
+tags:
+  - spell
 ---
 
 You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as “a green dragon's lair”).

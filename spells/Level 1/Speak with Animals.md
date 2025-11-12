@@ -19,6 +19,8 @@ Classes:
   - Druid
   - Ranger
   - Warlock
+tags:
+  - spell
 ---
 
 For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.

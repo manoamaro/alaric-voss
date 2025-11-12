@@ -17,6 +17,8 @@ Classes:
   - Bard
   - Cleric
   - Paladin
+tags:
+  - spell
 ---
 
 You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options:

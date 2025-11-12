@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Bard
   - Wizard
+tags:
+  - spell
 ---
 
 You create a spectral sword that hovers within range. It lasts for the duration.

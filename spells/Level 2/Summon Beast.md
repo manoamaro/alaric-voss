@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Druid
   - Ranger
+tags:
+  - spell
 ---
 
 You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range and uses the Bestial Spirit stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain details in its stat block. The creature disappears when it drops to O Hit Points or when the spell ends.

@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Bard
   - Cleric
+tags:
+  - spell
 ---
 
 With a touch, you revive a dead creature that has been dead for no more than a century, didn't die of old age, and wasn't Undead when it died.

@@ -18,6 +18,8 @@ Classes:
   - Bard
   - Druid
   - Ranger
+tags:
+  - spell
 ---
 
 This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below.

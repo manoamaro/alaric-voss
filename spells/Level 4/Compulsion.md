@@ -16,6 +16,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Bard
+tags:
+  - spell
 ---
 
 Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition until the spell ends.

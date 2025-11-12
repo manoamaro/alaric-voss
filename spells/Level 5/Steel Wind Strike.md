@@ -18,6 +18,8 @@ Prepared: false
 Classes:
   - Ranger
   - Wizard
+tags:
+  - spell
 ---
 
 Description not available (not OGL)

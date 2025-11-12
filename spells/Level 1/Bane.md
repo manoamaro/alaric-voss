@@ -20,6 +20,8 @@ Classes:
   - Bard
   - Cleric
   - Warlock
+tags:
+  - spell
 ---
 
 Up to three creatures of your choice that you can see within range must each make a Charisma saving throw. Whenever a target that fails this save makes an attack roll or a saving throw before the spell ends, the target must subtract 1d4 from the attack roll or save.

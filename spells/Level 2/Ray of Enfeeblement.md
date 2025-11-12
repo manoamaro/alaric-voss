@@ -17,6 +17,8 @@ Prepared: false
 Classes:
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has Disadvantage on the next attack roll it makes until the start of your next turn.

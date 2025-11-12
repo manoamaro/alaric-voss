@@ -16,6 +16,8 @@ Prepared: false
 Classes:
   - Bard
   - Cleric
+tags:
+  - spell
 ---
 
 Description not available (not OGL)

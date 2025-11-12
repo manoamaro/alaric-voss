@@ -16,6 +16,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Cleric
+tags:
+  - spell
 ---
 
 You conjure a spirit from the Upper Planes, which manifests as a pillar of light in a 10-foot-radius, 40-foot-high Cylinder centered on a point within range. For each creature you can see in the Cylinder, choose which of these lights shines on it:

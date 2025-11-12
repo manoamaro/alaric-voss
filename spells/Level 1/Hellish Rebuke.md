@@ -16,6 +16,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Warlock
+tags:
+  - spell
 ---
 
 The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.

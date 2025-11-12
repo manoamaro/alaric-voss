@@ -16,6 +16,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Paladin
+tags:
+  - spell
 ---
 
 Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit

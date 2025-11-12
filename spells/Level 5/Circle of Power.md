@@ -17,6 +17,8 @@ Classes:
   - Cleric
   - Paladin
   - Wizard
+tags:
+  - spell
 ---
 
 not available (not OGL)

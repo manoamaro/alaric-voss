@@ -18,6 +18,8 @@ Classes:
   - Cleric
   - Druid
   - Ranger
+tags:
+  - spell
 ---
 
 You step into a stone object or surface large enough to fully contain your body, merging yourself and your equipment with the stone for the duration. You must touch the stone to do so. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.

@@ -20,6 +20,8 @@ Classes:
   - Bard
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot Cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.

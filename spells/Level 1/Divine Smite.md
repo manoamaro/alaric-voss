@@ -15,6 +15,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Paladin
+tags:
+  - spell
 ---
 
 The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.

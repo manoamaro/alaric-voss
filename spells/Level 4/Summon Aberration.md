@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range and uses the Aberrant Spirit stat block. When you cast the spell, choose Beholderkin, Mind Flayer, or Slaad. The creature resembles an Aberration of that kind, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.

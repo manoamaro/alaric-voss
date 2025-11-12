@@ -18,6 +18,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Warlock
+tags:
+  - spell
 ---
 
 Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no Temporary Hit Points.

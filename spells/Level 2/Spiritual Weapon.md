@@ -16,6 +16,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Cleric
+tags:
+  - spell
 ---
 
 You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration.

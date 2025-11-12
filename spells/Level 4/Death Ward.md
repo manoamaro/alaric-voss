@@ -17,6 +17,8 @@ Prepared: false
 Classes:
   - Cleric
   - Paladin
+tags:
+  - spell
 ---
 
 You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 Hit Points before the spell ends, the target instead drops to 1 Hit Point, and the spell ends.

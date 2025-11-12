@@ -20,6 +20,8 @@ Classes:
   - Bard
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is Incapacitated and has a Speed of 0.

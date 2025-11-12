@@ -20,6 +20,8 @@ Classes:
   - Bard
   - Cleric
   - Wizard
+tags:
+  - spell
 ---
 
 Name or describe a famous person, place, or object. The spell brings to your mind a brief summary of the significant lore about that famous thing, as described by the DM.

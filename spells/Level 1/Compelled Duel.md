@@ -15,6 +15,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Paladin
+tags:
+  - spell
 ---
 
 You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has Disadvantage on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.

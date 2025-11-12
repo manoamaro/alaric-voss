@@ -19,6 +19,8 @@ Classes:
   - Druid
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You unleash a wave of thunderous energy. Each creature in a 15- foot Cube originating from you makes a Constitution saving throw. On a failed save, a creature takes 2d8 Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only.

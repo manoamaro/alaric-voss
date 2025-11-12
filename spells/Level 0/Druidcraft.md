@@ -16,6 +16,8 @@ Spell Book: false
 Prepared: false
 Classes:
   - Druid
+tags:
+  - spell
 ---
 
 **Weather Sensor.** You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.

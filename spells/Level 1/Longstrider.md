@@ -21,6 +21,8 @@ Classes:
   - Druid
   - Ranger
   - Wizard
+tags:
+  - spell
 ---
 
 You touch a creature. The target's Speed increases by 10 feet until the spell ends.

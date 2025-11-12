@@ -18,6 +18,8 @@ Classes:
   - Bard
   - Druid
   - Wizard
+tags:
+  - spell
 ---
 
 You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other rough or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.

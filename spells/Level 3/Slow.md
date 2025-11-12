@@ -20,6 +20,8 @@ Classes:
   - Bard
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You alter time around up to six creatures of your choice in a 40- foot Cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.

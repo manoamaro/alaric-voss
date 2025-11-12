@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 Description not available (not OGL)

@@ -22,6 +22,8 @@ Classes:
   - Druid
   - Paladin
   - Ranger
+tags:
+  - spell
 ---
 
 You touch a creature and magically remove one of the following effects from it:

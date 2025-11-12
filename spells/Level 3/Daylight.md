@@ -20,6 +20,8 @@ Classes:
   - Paladin
   - Ranger
   - Sorcerer
+tags:
+  - spell
 ---
 
 For the duration, sunlight spreads from a point within range and fills a 60-foot-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 60 feet.

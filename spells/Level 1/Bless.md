@@ -19,6 +19,8 @@ Prepared: false
 Classes:
   - Cleric
   - Paladin
+tags:
+  - spell
 ---
 
 You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.

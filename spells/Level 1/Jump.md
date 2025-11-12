@@ -21,6 +21,8 @@ Classes:
   - Ranger
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement.

@@ -20,6 +20,8 @@ Classes:
   - Druid
   - Paladin
   - Ranger
+tags:
+  - spell
 ---
 
 You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned

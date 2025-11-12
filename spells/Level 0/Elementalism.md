@@ -18,6 +18,8 @@ Classes:
   - Druid
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 You exert control over the elements, creating one of the following effects within range:

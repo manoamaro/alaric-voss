@@ -17,6 +17,8 @@ Classes:
   - Bard
   - Warlock
   - Wizard
+tags:
+  - spell
 ---
 
 You gain the Invisible condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.

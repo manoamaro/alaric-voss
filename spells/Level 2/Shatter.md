@@ -20,6 +20,8 @@ Classes:
   - Bard
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw, taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has Disadvantage on the save.

@@ -18,6 +18,8 @@ Classes:
   - Bard
   - Sorcerer
   - Wizard
+tags:
+  - spell
 ---
 
 A creature you touch has the Invisible condition until the spell ends.

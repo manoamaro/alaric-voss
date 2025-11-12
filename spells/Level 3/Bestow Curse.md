@@ -18,6 +18,8 @@ Classes:
   - Bard
   - Cleric
   - Wizard
+tags:
+  - spell
 ---
 
 You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:
