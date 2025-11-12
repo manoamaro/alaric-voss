@@ -9,11 +9,13 @@ title: Alaric Voss's Journal | Curse of Strahd
 A living Obsidian vault for Alaric Voss’s journey through Curse of Strahd: backstory, session logs, a lore compendium, and a browsable spellbook.
 
 ## Quick Links
+
 - [[Alaric Voss|Character & Backstory]]
 - [[Wizard Spells.base|Spells (All)]] • [[Spellbook.base|Spellbook (Wizard)]]
 - Session template: [[_templates/_session|_templates/_session]]
 
 > [!tip] Getting started
+>
 > - Use the links above to open the character page and spell views.
 > - Create new session notes in `sessions/` using the session template.
 > - Add compendium entries under `compendium/` and link them from sessions.
@@ -31,21 +33,25 @@ path:sessions/ tag:session
 Browse lore by category. These lists update automatically as you add notes.
 
 ### Characters
+
 ```query
 path:compendium/characters/
 ```
 
 ### Locations
+
 ```query
 path:compendium/locations/
 ```
 
 ### Study Notes
+
 ```query
 path:compendium/study notes/
 ```
 
 ### World
+
 ```query
 path:compendium/world/
 ```

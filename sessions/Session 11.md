@@ -3,6 +3,7 @@ tags:
   - session
 date: 2025-11-07
 ---
+
 A lone raven stood motionless on the road, about a hundred feet ahead of the party. Alaric, Van, and Orianna advanced cautiously, stopping within thirty feet. Extending his focus, Alaric cast Detect Magic—a faint gray aura shimmered around the bird, laced with threads of Transmutation. He shared his findings quietly with Orianna.
 
 ![[raven_entangled.jpg|300]]
@@ -20,6 +21,7 @@ Suddenly, the raven shot into the air—not of its own will. Hugh had used Catap
 The construct reacted instantly. Its wooden form groaned as it turned toward the druid. The sky erupted in motion as two flocks of ravens dove to attack.
 
 ![[construct.jpg|400]]
+
 # Encounter begins
 
 Initiative Order: Construct, Orianna, Hugh, Van, Alaric, Ireena, Flock 1, Flock 2, Brennick.

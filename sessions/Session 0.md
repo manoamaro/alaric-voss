@@ -3,6 +3,7 @@ tags:
   - session
 date: 2025-10-25
 ---
+
 Darkness. Mist coils through the air. Alaric stands on a lonely road hemmed by towering trees. Though it is day, no sun pierces the gray clouds—only a dim light glows through the fog. An unseen force draws him onward until a vast castle rises from the mist.
 
 In an instant, he stands within its halls. Before him, a man gazes out a tall window. Long dark hair, black cloak, motionless. Alaric tries to move but cannot. His eyes shift to a mirror nearby—the man’s reflection is absent.

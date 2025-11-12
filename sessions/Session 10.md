@@ -3,13 +3,14 @@ tags:
   - session
 date: 2025-10-26
 ---
+
 Alaric wakes early in Madame Eva’s camp, restless and unsettled by the previous night’s visions. Outside his tent, Stanimir greets him again, asking about Neverwinter—a place he claims never to have heard of. Still disoriented, Alaric recounts his meeting with Madame Eva. Stanimir advises, “Then follow her words.”
 
 After breakfast, Alaric sets off toward the crossroads, walking for several hours. There he finds the gallows—changed. Four bodies hang now where none stood before: an old man in armor smiling faintly, a second knight with silver trim and fury on his face, a blue-green tiefling woman, and a bronze dragonborn. Realizing it is another vision, Alaric approaches but collides with an invisible barrier that hurls him backward. Pain sears through him (–1 HP). When he rises, the bodies are gone.
 
 ![[crossroads_gallows_vision.jpg]]
 
-He continues toward the Village of Barovia, sketching the gallows scene in his notebook. 
+He continues toward the Village of Barovia, sketching the gallows scene in his notebook.
 
 Near the village gates, smoke and the scent of burning flesh fill the air. Villagers burn corpses at a bonfire, cleaning what looks like a battlefield. Spotting armed figures, Alaric discreetly casts Mage Armor (–1 spell slot) and proceeds cautiously.
 
