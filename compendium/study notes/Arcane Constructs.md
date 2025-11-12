@@ -1,3 +1,4 @@
+![[constructs_sketch.jpg]]
 # Classification
 *Artificial Sentience through Arcane Anchoring*
 
