@@ -1,10 +1,10 @@
 ![[father_donovich_sketch.jpg|500]]
 
-Donavich is the local priest to the [[Village of Barovia]] . He resides in the Church in [[Village of Barovia]]with his son [[Doru]] , now a [[Vampiric Entities|Vampire]] spawn.
+Donovich is the local priest to the [[Village of Barovia]] . He resides in the Church in [[Village of Barovia]] with his son [[Doru]] , now a [[Vampiric Entities|Vampire]] spawn.
 
-A little more than a year ago, twenty-year-old [[Doru]] and several other villagers stroned [[Castle Ravenloft]] in revolt, having being lured there by a wizard in black robes who came to Barovia from a faraway land. By all accounts, the wizard died by [[Count Strahd von Zarovich|Strahd]]’s hand, and so too did [[Doru]], who returned to his father as a [[Vampiric Entities|Vampire]] spawn . Donavich was able to trap his son in a church’s undercroft, where he remains to this day.
+A little more than a year ago, twenty-year-old [[Doru]] and several other villagers stroned [[Castle Ravenloft]] in revolt, having being lured there by a wizard in black robes who came to Barovia from a faraway land. By all accounts, the wizard died by [[Count Strahd von Zarovich|Strahd]]’s hand, and so too did [[Doru]], who returned to his father as a [[Vampiric Entities|Vampire]] spawn . Donovich was able to trap his son in a church’s undercroft, where he remains to this day.
 
-Father Donovich has been feeding his son his own blood since he was imprisoned, but he still cried out to his father at all hours for more. Donavich prays day and night, hoping the gods will tell him how to save [[Doru]] without destroying him.
+Father Donovich has been feeding his son his own blood since he was imprisoned, but he still cried out to his father at all hours for more. Donovich prays day and night, hoping the gods will tell him how to save [[Doru]] without destroying him.
 
 Father Donovich is a priest of [[Morninglord Religion]].
 

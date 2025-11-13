@@ -1,3 +1,9 @@
+---
+aliases:
+  - vampires
+  - vampire
+---
+
 Undead of the Second Order — retain intellect, emotion, and will. Not reanimated corpses but sustained by negative energy.
 
 ![[vampiric_entities.jpg]]
