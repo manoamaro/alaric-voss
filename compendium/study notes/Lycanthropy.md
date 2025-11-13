@@ -51,9 +51,9 @@ Each strain aligns with a unique primal signature in the Weave, suggesting origi
 # Philosophical Notes
 
 - Lycanthropy is not undeath but imbalance: life in conflict with its own nature. 
-- Unlike vampires, lycanthropes belong to the natural order, though twisted by curse.
+- Unlike [[Vampiric Entities|vampires]], lycanthropes belong to the natural order, though twisted by curse.
 - The beast is neither purely evil nor good—it is freedom without conscience.
 
 # Summary Thought
 
-“_Lycanthropy is not a theft of life but a fracture of self. Where a vampire defies death, a lycanthrope defies identity.”_
+“_Lycanthropy is not a theft of life but a fracture of self. Where a [[Vampiric Entities|vampire]] defies death, a lycanthrope defies identity.”_

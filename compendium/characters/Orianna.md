@@ -1,3 +1,3 @@
-A [[Tieflings|Tiefling]]
-
 #character/party 
+
+A [[Tieflings|Tiefling]] Druid.

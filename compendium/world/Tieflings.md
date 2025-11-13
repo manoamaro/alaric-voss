@@ -1,3 +1,8 @@
+---
+aliases:
+  - tiefiling
+  - tiefling
+---
 ![[tiefling_sketch.jpg]]
 - **Origin:** Descendants of mortals whose bloodlines were touched by infernal or fiendish power—typically through ancient pacts, curses, or planar exposure. The taint endures across generations. 
 - **Appearance:** Humanoid, often with horns, tails, pointed teeth, and eyes of solid color (red, gold, or violet). Skin tones range from human hues to deep crimson, blue, or purple.

@@ -1,3 +1,8 @@
+---
+aliases:
+  - Construct
+  - Constructs
+---
 ![[constructs_sketch.jpg]]
 
 # Classification

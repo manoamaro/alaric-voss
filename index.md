@@ -3,8 +3,6 @@ title: Alaric Voss' Journal
 ---
 ![[alaric_voss_mist.jpg|500]]
 
-# Alaric Voss' Journal
-
 > "In the gloaming between one heartbeat and the next, the Mists remember everything. I intend to do the same."
 
 This vault is Alaric’s personal ledger — equal parts research notes, battlefield recollections, and the quiet confessions of a human wizard determined to out-think a timeless tyrant. Every entry is written with the meticulous care of an academic who now measures days by torchlight and the scrape of fangs at the door.

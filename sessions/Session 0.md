@@ -16,7 +16,7 @@ He seeks his mentor, [[Archmage Kale Thandrel]], and recounts the vision. Kale l
 
 Alaric insists. Something about this vision feels tied to fate itself. Reluctantly, Kale retrieves a hidden ritual book—its cover bare except for indecipherable arcane sigils. He instructs Alaric to perform a specific ritual that may help him see deeper.
 
-Back at his shop, Alaric seals the windows and follows the ritual’s steps. The world falls away. Mist gathers at his feet. The same forest returns, the same castle. Inside the same chamber, he sees the dark figure again—but this time, the man turns. Their eyes meet. Power floods the room, crushing and immense. Then—another flash. A tent. A village name in a sign: Village Vallaki. 
+Back at his shop, Alaric seals the windows and follows the ritual’s steps. The world falls away. Mist gathers at his feet. The same forest returns, the same castle. Inside the same chamber, he sees the dark figure again—but this time, the man turns. Their eyes meet. Power floods the room, crushing and immense. Then—another flash. A tent. A village name in a sign: [[Village Vallaki]]. 
 
 He wakes once more, trembling. He resumes his daily work, but the man’s face and the village’s name remain vivid in his mind.
 

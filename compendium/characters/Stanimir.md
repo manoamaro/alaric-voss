@@ -1,2 +1,3 @@
-![[stanimir_sketch.jpg]]
 #character 
+
+![[stanimir_sketch.jpg]]

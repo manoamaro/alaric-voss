@@ -1,4 +1,4 @@
-_Mentor of Alaric Voss, High Diviner of the Neverwinter Academy_
+_Mentor of [[Alaric Voss]], High Diviner of the [[Neverwinter Academy]]_
 
 ![[alaric_voss_kale.jpg|500]]
 
@@ -6,7 +6,7 @@ Kale Thandrel is a human archmage of formidable intellect and cold precision, a 
 
 His demeanor is calm, almost surgical. He teaches that divination is not about glimpsing futures for comfort but dissecting the Weave to expose inevitability itself. He often says: “To know is to interfere. Every observation is a distortion. Remember that before you look too deep.”
 
-When Alaric studied under him, Kale recognized the young wizard’s rare sensitivity to omens—a resonance he described as “the mind’s alignment with the Weave’s pulse.” He took Alaric as a personal apprentice, guiding him through advanced divinatory formulas and experimental prediction models that were rarely permitted to apprentices. Under Kale’s tutelage, Alaric developed the theory that became his thesis: “Threads of the Unseen: A Theoretical Framework for Predictive Weaving through Controlled Divinatory Resonance.”
+When [[Alaric Voss|Alaric]] studied under him, Kale recognized the young wizard’s rare sensitivity to omens—a resonance he described as “the mind’s alignment with the Weave’s pulse.” He took [[Alaric Voss|Alaric]] as a personal apprentice, guiding him through advanced divinatory formulas and experimental prediction models that were rarely permitted to apprentices. Under Kale’s tutelage, [[Alaric Voss|Alaric]] developed the theory that became his thesis: “Threads of the Unseen: A Theoretical Framework for Predictive Weaving through Controlled Divinatory Resonance.”
 
 Kale’s mentorship, however, was not entirely benevolent. Though he pushed Alaric to mastery, he also warned him never to peer too far into “closed futures”—events sealed by powerful will or divine interference. The Archmage himself had done so once and bore the cost in his eyes, which flicker faintly like glass reflecting unseen stars whenever he gazes into darkness. Rumors among senior students whisper that Kale’s sight extends beyond the mortal plane, and that he no longer dreams as humans do.
 
@@ -18,7 +18,7 @@ In the Academy’s archives, Kale Thandrel is officially recorded as still servi
 
 - **Race:** Human (prolonged lifespan through arcane means)
 - **Class:** Wizard (Divination, Archmage rank)
-- **Affiliation:** Neverwinter Academy, High Diviner’s College
+- **Affiliation:** [[Neverwinter Academy]], High Diviner’s College
 - **Role:** Mentor of Alaric Voss
 - **Personality:** Methodical, detached, fearful of uncontrolled knowledge
 - **Known Artifacts:** Selenic Codex (restricted tome of divinatory rituals)
