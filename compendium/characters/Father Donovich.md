@@ -1,4 +1,5 @@
 ![[Father_Donovich.png|300]]
+
 Donavich is the local priest to the Village of Barovia . He resides in the Church in Village of Barovia with his son Doru , now a Vampire spawn.
 
 A little more than a year ago, twenty-year-old Doru and several other villagers stroned Castle Ravenloft in revolt, having benn lured there by a wizard in black robes who came to Barovia from a faraway land. By all accounts, the wizard died by Strahd’s hand, and so too did Doru, who returned to his father as a Vampire spawn . Donavich was able to trap his son in a church’s undercroft, where he remains to this day.

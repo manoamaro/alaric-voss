@@ -1,6 +1,8 @@
 _Mentor of Alaric Voss, High Diviner of the Neverwinter Academy_
 
-Kale Thandrel is a human archmage of formidable intellect and cold precision, a figure both revered and quietly feared within the Neverwinter Academy. Born over a century ago, sustained by the slow decay of arcane longevity, he is the current High Diviner and custodian of the Selenic Codex—a forbidden compendium of predictive and retrocausal magic.
+![[alaric_voss_kale.jpg|500]]
+
+Kale Thandrel is a human archmage of formidable intellect and cold precision, a figure both revered and quietly feared within the [[Neverwinter Academy]]. Born over a century ago, sustained by the slow decay of arcane longevity, he is the current High Diviner and custodian of the Selenic Codex—a forbidden compendium of predictive and retrocausal magic.
 
 His demeanor is calm, almost surgical. He teaches that divination is not about glimpsing futures for comfort but dissecting the Weave to expose inevitability itself. He often says: “To know is to interfere. Every observation is a distortion. Remember that before you look too deep.”
 
