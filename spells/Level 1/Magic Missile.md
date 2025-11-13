@@ -13,7 +13,7 @@ Damage: 1d4 + 1
 Damage Type: Force
 Upgrade: Using a Higher-Level Spell Slot. The spell creates one more dart for each spell slot level above 1.
 Spell Book: true
-Prepared: false
+Prepared: true
 Classes:
   - Sorcerer
   - Wizard

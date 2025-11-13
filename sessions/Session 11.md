@@ -20,7 +20,7 @@ Suddenly, the raven shot into the air—not of its own will. Hugh had used Catap
 
 The construct reacted instantly. Its wooden form groaned as it turned toward the druid. The sky erupted in motion as two flocks of ravens dove to attack.
 
-![[construct.jpg|400]]
+![[construct_2.jpg|600]]
 
 # Encounter begins
 

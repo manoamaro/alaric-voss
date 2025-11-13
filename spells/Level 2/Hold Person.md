@@ -15,7 +15,7 @@ Damage:
 Damage Type:
 Upgrade: Using a Higher-Level Spell Slot. You can target one additional Humanoid for each spell slot level above 2.
 Spell Book: true
-Prepared: false
+Prepared: true
 Classes:
   - Bard
   - Cleric

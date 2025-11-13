@@ -28,7 +28,6 @@ You receive an omen from an otherworldly entity about the results of a course of
 
 | **Omen**     | **For Results That Will Be...** |
 | ------------ | ------------------------------- |
-|              |                                 |
 | Weal         | Good                            |
 | Woe          | Bad                             |
 | Weal and woe | Good and bad                    |

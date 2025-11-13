@@ -1,14 +1,21 @@
+summaries:
+  Book: values.filter(value == true).length
 filters:
   and:
     - file.inFolder("spells")
     - Classes.contains("Wizard")
+properties:
+  file.name:
+    displayName: Name
 views:
   - type: table
     name: All
+    groupBy:
+      property: level
+      direction: ASC
     order:
       - file.name
       - Spell Book
-      - level
       - CastingTime
       - Range
       - Duration
@@ -22,12 +29,13 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
+    summaries: {}
     cardSize: 200
     imageAspectRatio: 0.85
     columnSize:
       note.CastingTime: 130
       note.components: 117
-      note.concentration: 128
+      note.concentration: 63
   - type: table
     name: Cantrips
     filters:

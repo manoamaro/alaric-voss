@@ -12,7 +12,7 @@ Damage: 3d8
 Damage Type: Psychic
 Upgrade: Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 2
 Spell Book: true
-Prepared: false
+Prepared: true
 Classes:
   - Sorcerer
   - Warlock

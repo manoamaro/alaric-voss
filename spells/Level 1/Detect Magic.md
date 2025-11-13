@@ -13,7 +13,7 @@ Damage:
 Damage Type:
 Upgrade:
 Spell Book: true
-Prepared: false
+Prepared: true
 Classes:
   - Bard
   - Cleric

@@ -6,4 +6,4 @@ title: Alaric Voss's Journal | Curse of Strahd
 
 # Welcome
 
-A living Obsidian vault for Alaric Voss’s journey through Curse of Strahd: backstory, session logs, a lore compendium, and a browsable spellbook.
+A living Obsidian vault for Alaric Voss’s journey through Curse of Strahd: backstory, session logs, a lore compendium, and a browsable [[SpellBook.base]].
