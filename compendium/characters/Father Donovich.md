@@ -9,3 +9,4 @@ Father Donovich has been feeding his son his own blood since he was imprisoned, 
 Father Donovich is a priest of [[Morninglord Religion]].
 
 After the Party found [[Doru]] they killed him in the Undercroft. That night Father Donovich took his own life by hanging himself from the bell tower only for [[Count Strahd von Zarovich]] to force his spirit back into his body. [[Count Strahd von Zarovich|Strahd]] told Donovich that twice he had disobeyed his will and if he did again he would have [[Count Strahd von Zarovich|Strahd]]'s attention.
+#character 

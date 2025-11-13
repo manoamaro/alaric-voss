@@ -4,3 +4,4 @@ aliases:
 ---
 
 ![[ismark_kolyanovich_sketch.jpg]]
+#character 

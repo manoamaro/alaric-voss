@@ -4,3 +4,4 @@ aliases:
 ---
 
 ![[escher_belasco_sketch.jpg]]
+#character 

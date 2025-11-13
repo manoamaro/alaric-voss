@@ -24,3 +24,5 @@ In the Academy’s archives, Kale Thandrel is officially recorded as still servi
 - **Known Artifacts:** Selenic Codex (restricted tome of divinatory rituals)
 - **Notable Quote:** “To know is to interfere. Every observation is a distortion.”
 - **Status:** Unknown; last seen within the sealed chambers of the Academy.
+
+#character 

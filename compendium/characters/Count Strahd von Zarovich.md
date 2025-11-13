@@ -5,3 +5,4 @@ aliases:
 ---
 
 ![[strahd_sketch.jpg]]
+#character 

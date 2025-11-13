@@ -4,3 +4,4 @@ aliases:
 ---
 
 ![[ireena_sketch.jpg|500]]
+#character 
