@@ -4,7 +4,7 @@ _Arcane Institution of the Jewel of the North_
 
 The Neverwinter Academy is the preeminent center of magical study on the Sword Coast, second in reputation only to Waterdeep’s Blackstaff Tower. Founded over four centuries ago by Archmage Edran Vaelor under the patronage of Lord Nasher Alagondar, the Academy stands as both a fortress of knowledge and a political institution, balancing civic duty with the pursuit of arcane mastery.
 
-The main complex rises along the northern bank of the Neverwinter River, within sight of the Hall of Justice. Its towers are built from pale granite veined with silver inlays that hum faintly when exposed to moonlight—an enchantment meant to stabilize divinatory energy across the campus. The air smells of parchment, alchemical smoke, and ozone. Runes line the corridors, subtly reshaping the Weave to suppress stray magical discharges.
+Based in [[Neverwinter]], the main complex rises along the northern bank of the Neverwinter River, within sight of the Hall of Justice. Its towers are built from pale granite veined with silver inlays that hum faintly when exposed to moonlight—an enchantment meant to stabilize divinatory energy across the campus. The air smells of parchment, alchemical smoke, and ozone. Runes line the corridors, subtly reshaping the Weave to suppress stray magical discharges.
 
 ### Structure and Organization
 
@@ -28,7 +28,7 @@ Neverwinter’s prosperity has always been tied to its Academy. Its Diviners adv
 
 ### The College of Divination
 
-The Diviners’ tower is the oldest and quietest part of the Academy. Its central dome, the Observatorium Aeterna, houses an immense orrery that maps the Weave’s fluctuations in real time. Under Archmage Kale Thandrel’s leadership, it became a center for research into predictive resonance—magic that seeks not merely to see the future, but to alter probability itself. Many within the Academy regard the Diviners as both essential and unnerving; they are said to speak more with silence than words.
+The Diviners’ tower is the oldest and quietest part of the Academy. Its central dome, the Observatorium Aeterna, houses an immense orrery that maps the Weave’s fluctuations in real time. Under [[Archmage Kale Thandrel]]’s leadership, it became a center for research into predictive resonance—magic that seeks not merely to see the future, but to alter probability itself. Many within the Academy regard the Diviners as both essential and unnerving; they are said to speak more with silence than words.
 
 **Location:** Northern bank of the Neverwinter River, Neverwinter
 **Founded:** ~400 years ago by Archmage Edran Vaelor

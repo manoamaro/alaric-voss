@@ -24,7 +24,7 @@ The next day, a man visits his shop seeking a lost possession. Alaric charges 5 
 
 Using [[spells/Level 2/Detect Thoughts|Detect Thoughts]], Alaric visualises it—a coin-like object of copper—and with Locate Object, he discovers it lies among the man’s own belongings at the tavern. The man laughs it off as forgetfulness and repeats his invitation.
 
-That evening, Alaric meets him again. The stranger introduces himself as Anton and asks, “Do you enjoy meddling in other people’s affairs?”. Alaric answers no. The man smiles faintly. “Good. I’m seeking someone to help a friend—a man beloved by his village, now imprisoned for dark magic. You might be perfect for it.” Guided by beliefs and principles, rearing the words “dark magic” makes Alaric reluctant, enough to be perceived by Anton. But some strange curiosity glances in his mind.
+That evening, Alaric meets him again. The stranger introduces himself as [[Anton]] and asks, “Do you enjoy meddling in other people’s affairs?”. Alaric answers no. The man smiles faintly. “Good. I’m seeking someone to help a friend—a man beloved by his village, now imprisoned for dark magic. You might be perfect for it.” Guided by beliefs and principles, rearing the words “dark magic” makes Alaric reluctant, enough to be perceived by [[Anton]]. But some strange curiosity glances in his mind.
 
 When Alaric presses for details, the man stands. “Better not to know. You said you don’t pry into others’ business.” He leaves.
 

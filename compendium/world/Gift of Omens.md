@@ -1,4 +1,4 @@
-Gift of Omens is the manifestation of Savras’s favor—an intuitive awareness of fate’s subtle currents.
+Gift of Omens is the manifestation of [[God Savras|Savras]]’s favor—an intuitive awareness of fate’s subtle currents.
 
 # Nature
 
