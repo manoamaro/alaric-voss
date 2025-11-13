@@ -1,2 +1,2 @@
 ![[tser_pool.avif]]
-![[Tser_Pool_Map.webp]]
+![[tser_pool_map.webp]]

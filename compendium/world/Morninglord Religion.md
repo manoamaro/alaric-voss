@@ -6,7 +6,7 @@
 - Light as both mercy and judgment.
 - Every sunrise symbolizes a new chance to break cycles of darkness.
 
-# **Beliefs in Faerûn:*
+# \*_Beliefs in Faerûn:_
 
 - Lathander is the god of creativity, youth, beginnings, self-improvement, and righteous action.
 - Clergy preach optimism, discipline, and striving for a better world.
@@ -25,13 +25,14 @@
 - Faerûn: a stylized sunburst of reds and golds.
 - Barovia: simplified—often a crudely carved sunrise, faded and colorless.
 
-# **Priests (like Father Donavich)**
+# **Priests (like [[Father Donovich]])**
 
 - Expected to embody compassion and perseverance.
 - Maintain sanctuaries, offer blessings against undeath, and serve as the last bastions of moral order.
 - In Barovia, priests are often broken by endless failure, clinging to faith out of desperation rather than conviction.
 
-# **Magic and Themes:**
+# **Magic and Themes**
+
 - Spells emphasize radiant light, healing, purification, and banishment of undead.
 - Followers believe every act of kindness is a spark against the darkness.
 

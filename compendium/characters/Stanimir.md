@@ -1,1 +1,1 @@
-![[stanimir.jpg|400]]
+![[stanimir_sketch.jpg]]

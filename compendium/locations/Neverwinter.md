@@ -1,4 +1,4 @@
-![[NeverwinterHarbor.webp]]
+![[neverwinter_harbor.webp]]
 Neverwinter is a major city-state on the Sword Coast of Faerûn, northwest of the continent. Known as “The Jewel of the North,” it is famed for beauty, order, and resilience.
 
 ## Key facts
@@ -9,4 +9,3 @@ Neverwinter is a major city-state on the Sword Coast of Faerûn, northwest of th
 - **Religion:** Temples to Oghma, Tyr, and Lathander stand within the city.
 - **Economy:** Exports fine crafts, weapons, and enchanted goods. Trade hub between Waterdeep and Luskan.
 - **History:** Destroyed partially by Mount Hotenow’s eruption a century ago, then rebuilt. The reconstruction attracted adventurers, mercenaries, and opportunists, leaving a mix of prosperity and unrest.
-
