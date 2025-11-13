@@ -1,3 +1,7 @@
+---
+aliases:
+  - Alaric
+---
 ![[alaric_voss_portrait_1.jpg|400]]
 
 # Backstory

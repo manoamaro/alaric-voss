@@ -12,7 +12,7 @@ After breakfast, Alaric sets off toward the crossroads, walking for several hour
 
 He continues toward the [[Village of Barovia]], sketching the gallows scene in his notebook.
 
-Near the village gates, smoke and the scent of burning flesh fill the air. Villagers burn corpses at a bonfire, cleaning what looks like a battlefield. Spotting armed figures, Alaric discreetly casts Mage Armor (–1 spell slot) and proceeds cautiously.
+Near the village gates, smoke and the scent of burning flesh fill the air. Villagers burn corpses at a bonfire, cleaning what looks like a battlefield. Spotting armed figures, Alaric discreetly casts [[spells/Level 1/Mage Armor|Mage Armor]] (–1 spell slot) and proceeds cautiously.
 
 ![[village_barovia_entrance.jpg]]
 
@@ -24,11 +24,11 @@ Moments later, chaos echoes from within the church. Alaric opens the doors just 
 
 The dragonborn [[Hugh]] holds a corpse. [[Van]] mutters, “Another one of us, maybe. Stay close.” Inside, Alaric learns the dead man was [[Doru]], son of [[Father Donovich|Priest Donavich]]. After the confrontation, the group introduces themselves. Alaric notes that [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]]—two others with them—did not appear in his vision.
 
-[[Hugh]] asks for a pastry. Alaric warns it may not be safe, but he eats it anyway. He then gives Alaric a black orb, claiming it grants visions. Alaric senses no magic and begins to cast Detect Magic, but [[Van]] interrupts, insisting they move on. Alaric stores the orb.
+[[Hugh]] asks for a pastry. Alaric warns it may not be safe, but he eats it anyway. He then gives Alaric a black orb, claiming it grants visions. Alaric senses no magic and begins to cast [[spells/Level 1/Detect Magic|Detect Magic]], but [[Van]] interrupts, insisting they move on. Alaric stores the orb.
 
-At Bildrath’s Mercantile, Alaric buys a healing potion. The group plans to travel to Village Vallaki; Alaric offers to guide them, recalling the road from [[Stanimir]]’s camp. Rain begins as they travel. They rest briefly before continuing.
+At Bildrath’s Mercantile, Alaric buys a healing potion. The group plans to travel to [[Village Vallaki]]; Alaric offers to guide them, recalling the road from [[Stanimir]]’s camp. Rain begins as they travel. They rest briefly before continuing.
 
-During the journey, Alaric overhears talk of undead and vampires. He recalls ancient texts describing their nature and confirms his suspicions about the region’s curse.
+During the journey, Alaric overhears talk of undead and [[Vampiric Entities|vampires]]. He recalls ancient texts describing their nature and confirms his suspicions about the region’s curse.
 
 At the crossroads again, the gallows stand empty. When [[Van]] asks his interest, Alaric deflects, directing attention toward the road leading to [[Madame Eva]]’s camp.
 
@@ -38,8 +38,8 @@ Mist gathers thick and fast. A large shadow moves within it—a black carriage d
 
 He notes Alaric’s unfamiliar face. “You were not announced,” he says. [[Count Strahd von Zarovich|Strahd]] mocks [[Ireena Kolyana|Ireena]], calling her a servant. [[Brennick]] and [[Van]] intervene, and [[Count Strahd von Zarovich|Strahd]] warns them of meddling in his affairs.
 
-He demands to see each one’s ability. [[Brennick]]’s blessed sword wounds him unexpectedly. [[Count Strahd von Zarovich|Strahd]] acknowledges the weapon’s power with intrigue. When Alaric demonstrates Fire Bolt, he is unimpressed. Alaric attempts Mind Spike on [[Escher Belasco|Escher]]; the spell strikes true but causes little harm. [[Count Strahd von Zarovich|Strahd]] smiles faintly. “Weak, but curious.”
+He demands to see each one’s ability. [[Brennick]]’s blessed sword wounds him unexpectedly. [[Count Strahd von Zarovich|Strahd]] acknowledges the weapon’s power with intrigue. When Alaric demonstrates [[spells/Level 0/Fire Bolt|Fire Bolt]], he is unimpressed. Alaric attempts [[spells/Level 2/Mind Spike|Mind Spike]] on [[Escher Belasco|Escher]]; the spell strikes true but causes little harm. [[Count Strahd von Zarovich|Strahd]] smiles faintly. “Weak, but curious.”
 
 He returns to the carriage and departs into the mist.
 
-The group resumes travel toward Vallaki. On the road to [[Madame Eva]]’s camp, a raven suddenly falls ahead, wrapped in green-veined growths.
+The group resumes travel toward [[Village Vallaki|Vallaki]]. On the road to [[Madame Eva]]’s camp, a raven suddenly falls ahead, wrapped in green-veined growths.
