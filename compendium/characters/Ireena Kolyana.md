@@ -1,1 +1,1 @@
-![[ireena_kolyana.jpg]]
+![[ireena_sketch.jpg]]

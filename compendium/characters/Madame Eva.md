@@ -1,1 +1,1 @@
-![[madame_eva.jpeg|400]]
+![[madame_eva_sketch.jpg|500]]

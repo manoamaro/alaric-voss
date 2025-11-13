@@ -1,1 +1,1 @@
-![[ismark_kolyanovich.png|300]]
+![[ismark_kolyanovich_sketch.jpg]]
