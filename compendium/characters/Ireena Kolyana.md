@@ -1,1 +1,1 @@
-![[ireena_sketch.jpg]]
+![[ireena_sketch.jpg|500]]
