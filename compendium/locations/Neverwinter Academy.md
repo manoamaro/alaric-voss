@@ -1,5 +1,3 @@
-## Neverwinter Academy
-
 _Arcane Institution of the Jewel of the North_
 
 ![[Neverwinter_academy.webp]]
