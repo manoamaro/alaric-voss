@@ -1,6 +1,7 @@
 ---
 draft: true
 ---
+
 **Overview**
 
 - Obsidian vault for a D&D 5e character and campaign journal: Alaric Voss in Curse of Strahd.
