@@ -36,4 +36,4 @@
 - Spells emphasize radiant light, healing, purification, and banishment of undead.
 - Followers believe every act of kindness is a spark against the darkness.
 
-For Alaric, the Morninglord’s religion appears like a flickering remnant — a faith built around a sunrise that never comes, yet still stubbornly held by those who refuse to surrender to Strahd’s night.
+For Alaric, the Morninglord’s religion appears like a flickering remnant — a faith built around a sunrise that never comes, yet still stubbornly held by those who refuse to surrender to [[Count Strahd von Zarovich|Strahd]]’s night.

@@ -36,6 +36,6 @@ He awakens at a crossroads. An empty gallows by the road, visible through the mo
 
 ![[crossroad_gallows.jpg]]
 
-He recalls the name from his vision—the [[Vallaki]] with the tent. Feeling lost, he follows that road.
+He recalls the name from his vision—the [[Village Vallaki]] with the tent. Feeling lost, he follows that road.
 
 Along the way, he meets another traveler named [[Stanimir]], a big guy with a goatee, who recognizes his confusion and leads him to a camp. There, inside a large tent, he meets a woman named [[Madame Eva]], who explains that others too have been drawn here by the mists. “You arrived earlier than expected,” she says. “Rest for now. In the morning, go to the [[Village of Barovia]], maybe you will find your answers there.”

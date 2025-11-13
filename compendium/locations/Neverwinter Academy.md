@@ -34,6 +34,6 @@ The Diviners’ tower is the oldest and quietest part of the Academy. Its centra
 **Founded:** ~400 years ago by Archmage Edran Vaelor
 **Purpose:** Magical education, civic service, arcane research
 **Governance:** The Conclave of the Weave, led by the Archmage of Neverwinter
-**Notable Figures:** Archmage Kale Thandrel (High Diviner), Archmage Vaelor (Founder)
+**Notable Figures:** [[Archmage Kale Thandrel]] (High Diviner), Archmage Vaelor (Founder)
 **Motto:** “Through Knowledge, the Weave Endures.”
 **Known for:** Divination and Abjuration research; civic magical defense; restricted archives
