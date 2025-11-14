@@ -24,6 +24,8 @@ The construct reacted instantly. Its wooden form groaned as it turned toward the
 
 # Encounter begins
 
+
+
 Initiative Order: Construct, [[Orianna]], [[Hugh]], [[Van]], [[Alaric Voss|Alaric]], [[Ireena Kolyana|Ireena]], Flock 1, Flock 2, [[Brennick]].
 
 The battle began. The construct advanced toward [[Van]], the closest target.
