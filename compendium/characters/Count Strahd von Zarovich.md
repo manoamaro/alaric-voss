@@ -4,5 +4,6 @@ aliases:
   - Lord Strahd
   - Count Strahd
 ---
-#character 
 ![[strahd_sketch.jpg]]
+
+#character 

@@ -2,6 +2,7 @@
 aliases:
   - Ismark
 ---
+![[ismark_kolyanovich_sketch.jpg]]
+
 #character 
 
-![[ismark_kolyanovich_sketch.jpg]]
