@@ -8,7 +8,11 @@ aliases:
 
 Born and raised in [[Neverwinter]], Alaric Voss found himself during childhood always locating small lost objects from his friends and families, discovering early the [[Gift of Omens]]. Driven by curiosity about this power, seeking to understand and how to control them, he joined the [[Neverwinter Academy]], diving into the Arcane arts and later on, the School of Divination. He finished his studies with a thesis titled *“Threads of the Unseen: A Theoretical Framework for Predictive Weaving through Controlled Divinatory Resonance”*, guided by his mentor [[Archmage Kale Thandrel]] passed with distinction. To survive beyond the university’s gates, he turned his research toward practical ends.
 
+![[alaric_voss_kale.jpg]]
+
 He began offering his talents to common folk—locating lost heirlooms, guiding search parties to missing kin, and interpreting the omens surrounding accidents or disappearances. His methods were meticulous and clinical: detailed notes, ritual circles marked with chalk, hours of patient concentration. Where others saw coincidence, he saw alignment within the Weave. Word spread that the “Seer of Neverwinter” could find what was lost—though his manner remained reserved and his explanations cryptic.
+
+![[alaric_voss_omen_neverwinter_01.jpg]]
 
 Alaric charged fair payment for his work and earned modest comfort from it, enough to afford good ink, reliable lodgings, and quiet study. He lived without spectacle or self-promotion, valuing precision over fame. Over time, he became known as a dependable, if unsettling, practitioner—one who read the world’s subtle currents with unerring logic.
 
@@ -27,3 +31,6 @@ My visions reveal a dark truth only I can decipher
 ## Flaws
 
 I seek forbidden knowledge even when it endangers other
+
+![[alaric_voss_neverwinter_01.jpg|300]]
+![[alaric_voss_neverwinter_02.jpg|300]]
