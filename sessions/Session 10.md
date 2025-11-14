@@ -30,6 +30,8 @@ At Bildrath’s Mercantile, [[Alaric Voss|Alaric]] buys a healing potion. The gr
 
 During the journey, [[Alaric Voss|Alaric]] overhears talk of undead and [[Vampiric Entities|vampires]]. He recalls ancient texts describing their nature and confirms his suspicions about the region’s curse.
 
+![[short_rest.jpg]]
+
 At the crossroads again, the gallows stand empty. When [[Van]] asks his interest, [[Alaric Voss|Alaric]] deflects, directing attention toward the road leading to [[Madame Eva]]’s camp.
 
 Mist gathers thick and fast. A large shadow moves within it—a black carriage drawn by two dark horses covered by black sheets. The group halts. A servant, [[Escher Belasco|Escher]], drives the carriage. It stops beside them. From within emerges [[Count Strahd von Zarovich|Lord Strahd von Zarovich]], tall and pale. His voice is calm yet commanding.
