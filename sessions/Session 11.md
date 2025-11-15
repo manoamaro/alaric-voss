@@ -6,7 +6,7 @@ date: 2025-11-07
 
 A lone raven stood motionless on the road, about a hundred feet ahead of the party. [[Alaric Voss|Alaric]], [[Van]], and [[Orianna]] advanced cautiously, stopping within thirty feet. Extending his focus, [[Alaric Voss|Alaric]] cast [[spells/Level 1/Detect Magic|Detect Magic]]—a faint gray aura shimmered around the bird, laced with threads of Transmutation. He shared his findings quietly with [[Orianna]].
 
-![[raven_entangled.jpg|300]]
+![[raven_entangled.jpg]]
 
 Then, without warning, a massive shape plummeted from the sky—crashing into the ground fifty feet beyond the raven. A humanoid form, towering and unnatural. [[Alaric Voss|Alaric]]’s trained eye recognized it as a [[Arcane Constructs|Construct]]—an arcane entity animated by magical force rather than life. Yet this one differed from any he had studied at the [[Neverwinter Academy]]. Its torso resembled a tree’s trunk wrapped in plates of bark, glowing veins pulsing beneath the surface. Its limbs were carved from ancient boughs, rooted feet gripping the earth, and broad wooden wings unfurled from its back, defying natural law. At its heart, nestled in the sacred fork of its body, pulsed a luminous core—the Crown-Core—the living heart of its magic.
 
@@ -20,11 +20,9 @@ Suddenly, the raven shot into the air—not of its own will. [[Hugh]] had used C
 
 The construct reacted instantly. Its wooden form groaned as it turned toward the druid. The sky erupted in motion as two flocks of ravens dove to attack.
 
-![[construct_2.jpg|600]]
+![[construct_2.jpg]]
 
 # Encounter begins
-
-
 
 Initiative Order: Construct, [[Orianna]], [[Hugh]], [[Van]], [[Alaric Voss|Alaric]], [[Ireena Kolyana|Ireena]], Flock 1, Flock 2, [[Brennick]].
 

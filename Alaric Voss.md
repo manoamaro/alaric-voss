@@ -32,5 +32,5 @@ My visions reveal a dark truth only I can decipher
 
 I seek forbidden knowledge even when it endangers other
 
-![[alaric_voss_neverwinter_01.jpg|300]]
+
 ![[alaric_voss_neverwinter_02.jpg|300]]
