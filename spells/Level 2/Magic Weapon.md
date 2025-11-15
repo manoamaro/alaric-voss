@@ -1,7 +1,7 @@
 ---
 Level: 2
 School: Transmutation
-CastingTime: "#BonusAction"
+CastingTime: Bonus Action
 Range: Touch
 Components:
   - V
@@ -9,8 +9,8 @@ Components:
 Concentration: false
 Duration: 1 hour
 Ritual: false
-Damage: null
-"Damage Type": null
+Damage:
+Damage Type:
 Upgrade: Using a Higher-Level Spell Slot. The bonus increases to +2 with a level 3–5 spell slot. The bonus increases to +3 with a level 6+ spell slot.
 Spell Book: false
 Prepared: false

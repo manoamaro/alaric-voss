@@ -1,7 +1,7 @@
 ---
 Level: 2
 School: Abjuration
-CastingTime: "#BonusAction"
+CastingTime: Bonus Action
 Range: Self
 Components:
   - V
@@ -9,8 +9,8 @@ Components:
 Concentration: false
 Duration: Instantaneous
 Ritual: false
-Damage: null
-"Damage Type": null
+Damage:
+Damage Type:
 Upgrade: Using a Higher-Level Spell Slot. The number of unexpended Hit Dice you can roll increases by one for each spell slot level above 2.
 Spell Book: false
 Prepared: false

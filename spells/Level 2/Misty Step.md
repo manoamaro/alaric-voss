@@ -1,7 +1,7 @@
 ---
 Level: 2
 School: Conjuration
-CastingTime: "#BonusAction"
+CastingTime: Bonus Action
 Range: Self
 Components:
   - V

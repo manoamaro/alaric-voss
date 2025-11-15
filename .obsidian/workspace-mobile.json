@@ -11,10 +11,13 @@
             "id": "001938f1d319bd95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "spells/Spells.base",
+                "viewName": "All"
+              },
+              "icon": "lucide-table",
+              "title": "Spells"
             }
           }
         ]
@@ -155,25 +158,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quartz-syncer:Quartz Syncer publication center": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
       "bases:Create new base": false
     }
   },
   "active": "001938f1d319bd95",
   "lastOpenFiles": [
+    "spells/Level 0/Toll the Dead.md",
+    "spells/Spells.base",
+    "spells/Level 0/Elementalism.md",
+    "spells/Level 0/Blade Ward.md",
+    "spells/Level 0/Dancing Lights.md",
+    "spells/Level 0/Thunderclap.md",
+    "spells/Level 0/Shocking Grasp.md",
+    "spells/Level 0/Ray of Frost.md",
+    "spells/Level 0/Mind Sliver.md",
+    "spells/Level 0/Mending.md",
+    "spells/Level 0/True Strike.md",
+    "SpellBook.base",
+    "spells/Level 2/Misty Step.md",
     "compendium/characters/party/Van.md",
     "compendium/characters/party/Orianna.md",
     "compendium/characters/party/Brennick.md",
     "compendium/characters/party/Hugh.md",
     "compendium/characters/party",
-    "spells/Spells.base",
     "index.md",
     "README.md",
     "character-sheet.pdf",
@@ -182,7 +196,6 @@
     "media/alaric_voss_village_barovia.jpg",
     "media/alaric_voss_kale.jpg",
     "media/alaric_voss_neverwinter.jpg",
-    "Wizard Spells.base",
-    "SpellBook.base"
+    "Wizard Spells.base"
   ]
 }

@@ -1,7 +1,7 @@
 ---
 Level: 2
 School: Transmutation
-CastingTime: "#BonusAction"
+CastingTime: Bonus Action
 Range: Touch
 Components:
   - V
@@ -11,8 +11,8 @@ Material: a hot pepper
 Concentration: true
 Duration: up to 1 minute
 Ritual: false
-Damage: null
-"Damage Type": null
+Damage:
+Damage Type:
 Upgrade: Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 2.
 Spell Book: false
 Prepared: false

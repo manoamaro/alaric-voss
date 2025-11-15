@@ -1,7 +1,7 @@
 ---
 Level: 1
 School: Transmutation
-CastingTime: "#BonusAction"
+CastingTime: Bonus Action
 Range: Touch
 Components:
   - V
@@ -11,8 +11,8 @@ Material: a grasshopper's hind leg
 Concentration: false
 Duration: 1 minute
 Ritual: false
-Damage: null
-"Damage Type": null
+Damage:
+Damage Type:
 Upgrade: Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1
 Spell Book: false
 Prepared: false

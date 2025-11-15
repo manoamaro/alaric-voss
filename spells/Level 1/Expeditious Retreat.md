@@ -1,7 +1,7 @@
 ---
 Level: 1
 School: Transmutation
-CastingTime: "#BonusAction"
+CastingTime: Bonus Action
 Range: Self
 Components:
   - V
@@ -9,9 +9,9 @@ Components:
 Concentration: true
 Duration: up to 10 minutes
 Ritual: false
-Damage: null
-"Damage Type": null
-Upgrade: null
+Damage:
+Damage Type:
+Upgrade:
 Spell Book: false
 Prepared: false
 Classes:
