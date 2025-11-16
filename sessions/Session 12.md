@@ -22,3 +22,9 @@ Alaric story:
 
 Stanimir story:
 Advance magic, casts an illusion of a big map
+
+Gets the Scroll of Clairvoyance
+
+Elysa offers to help hunting
+
+Short Rest? -> Arcane Recovery
