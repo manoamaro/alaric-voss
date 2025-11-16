@@ -3,7 +3,7 @@ tags:
   - session
 date: 2025-11-07
 ---
-A lone raven stood motionless on the road, about a hundred feet ahead of the party. [[Alaric Voss|Alaric]], [[Van]], and [[Orianna]] advanced cautiously, stopping within thirty feet. Extending his focus, [[Alaric Voss|Alaric]] cast [[spells/Level 1/Detect Magic|Detect Magic]]—a faint gray aura shimmered around the bird, laced with threads of Transmutation. He shared his findings quietly with [[Orianna]].
+A lone raven stood motionless on the road, tangled in silver wires, about a hundred feet ahead of the party. [[Alaric Voss|Alaric]], [[Van]], and [[Orianna]] advanced cautiously, stopping within thirty feet. Extending his focus, [[Alaric Voss|Alaric]] cast [[spells/Level 1/Detect Magic|Detect Magic]]—a faint gray aura shimmered around the bird, laced with threads of Transmutation. He shared his findings quietly with [[Orianna]].
 
 ![[raven_entangled.jpg]]
 
@@ -67,6 +67,8 @@ The piece of petrified wood roughly the size and shape of a human heart. It is d
 
 It feels faintly hungry. It always remains slightly damp, smelling perpetually of rich, overturned soil and decaying leaves. The air around it seems heavier, and small patches of grass or moss near it often appear prematurely withered.
 
+![[construct_core.jpg]]
+
 [[Orianna]], now steady, freed the raven from its bindings and healed it fully. Yet when it tried to flee, she held it firm. The creature cawed unnaturally, its sounds hollow—more mimicry than voice. When questioned, it refused to speak. Only after [[Hugh]] threatened it did the raven’s tone shift, pleading in fear.
 
-“Please… don’t kill me.”
+“Alright alright… I speak, thanks for saving me” - Orianna heard through Animal Speaking.
