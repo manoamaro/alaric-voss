@@ -20,10 +20,10 @@ Result of a necromantic transformation, often through another vampire’s bite f
 
 # Core Traits
 
-- Immortal, unaging.
-- Rapid regeneration unless exposed to sunlight, holy power, or running water.
+- **Immortal**, unaging.
+- **Rapid regeneration** unless exposed to sunlight, holy power, or running water.
 - Cannot enter a home uninvited.
-- No reflection or shadow (symbol of severed soul).
+- **No reflection or shadow** (symbol of severed soul).
 - Must feed on blood to maintain stability.
 
 # Abilities

@@ -6,7 +6,8 @@ aliases:
   - werebears
   - wererat
   - wererats
-  - were
+  - wereraven
+  - wereravens
 ---
 ![[lycanthropy_sketch.jpg]]
 
