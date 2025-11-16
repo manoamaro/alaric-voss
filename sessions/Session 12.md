@@ -18,3 +18,5 @@ Mysterious symbol behind Madame Eva. Brennick passed Arcana check, Alaric failed
 
 Elysa and Turi arrives
 
+Alaric story:
+In Neverwinter I had a small shop, where I was helping people in various ways, finding lost objects, relatives, etc. Once a small boy came frightented, crying for their parents who disapeared. 
