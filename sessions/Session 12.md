@@ -13,3 +13,8 @@ Brennick sees a divine angel during Alaric's ritual + Augury cast.
 
 Mysterious symbol behind Madame Eva. Brennick passed Arcana check, Alaric failed. Brennick identifies as a Shar symbol.
 
+
+
+
+Elysa and Turi arrives
+
