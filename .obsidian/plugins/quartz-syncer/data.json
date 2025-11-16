@@ -5,7 +5,7 @@
   "vaultPath": "/",
   "contentFolder": "content",
   "useFullResolutionImages": true,
-  "applyEmbeds": true,
+  "applyEmbeds": false,
   "publishFrontmatterKey": "publish",
   "allNotesPublishableByDefault": true,
   "showCreatedTimestamp": true,
@@ -29,7 +29,7 @@
   "useExcalidraw": false,
   "useFantasyStatblocks": false,
   "useThemes": false,
-  "lastUsedSettingsTab": "integration",
+  "lastUsedSettingsTab": "github",
   "noteSettingsIsInitialized": true,
   "pluginVersion": "1.8.10"
 }
