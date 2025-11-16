@@ -13,7 +13,7 @@ Ritual: false
 Damage:
 Damage Type:
 Upgrade: Cantrip Upgrade. Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6)
-Spell Book: true
+Spell Book: false
 Prepared: true
 Classes:
   - Bard
