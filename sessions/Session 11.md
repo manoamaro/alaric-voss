@@ -3,7 +3,6 @@ tags:
   - session
 date: 2025-11-07
 ---
-
 A lone raven stood motionless on the road, about a hundred feet ahead of the party. [[Alaric Voss|Alaric]], [[Van]], and [[Orianna]] advanced cautiously, stopping within thirty feet. Extending his focus, [[Alaric Voss|Alaric]] cast [[spells/Level 1/Detect Magic|Detect Magic]]—a faint gray aura shimmered around the bird, laced with threads of Transmutation. He shared his findings quietly with [[Orianna]].
 
 ![[raven_entangled.jpg]]
@@ -63,6 +62,10 @@ Then [[Hugh]] raised his hand, his focus sharp, and unleashed [[spells/Level 2/S
 [[Van]] and [[Alaric Voss|Alaric]] approached the fallen construct. [[Van]] noticed its clawed hands—each talon forged from silver—and considered harvesting them before turning his attention to [[Orianna]]’s condition.
 
 [[Alaric Voss|Alaric]] lingered beside the body, feeling the lingering pulse of arcane energy. He placed his hand upon the head, sensing immense power emanating from within the Crown-Core. Drawing his dagger, he began carving through the hardened wood, the effort brutal and costly. Splinters tore his flesh, blood mixing with sap as he cut deeper (–9 HP). Finally, he reached the heart of the construct—a black, pulsing mass. With trembling hands, he extracted it and stored it carefully in his pouch.
+
+The piece of petrified wood roughly the size and shape of a human heart. It is dark, heavy, and cold to the touch, with a surface so incredibly gnarled and twisted it resembles a knot of dried veins and muscle fibbers. Embedded within the wood are several fine, shimmering splinters that catch the light like polished insect legs.
+
+It feels faintly hungry. It always remains slightly damp, smelling perpetually of rich, overturned soil and decaying leaves. The air around it seems heavier, and small patches of grass or moss near it often appear prematurely withered.
 
 [[Orianna]], now steady, freed the raven from its bindings and healed it fully. Yet when it tried to flee, she held it firm. The creature cawed unnaturally, its sounds hollow—more mimicry than voice. When questioned, it refused to speak. Only after [[Hugh]] threatened it did the raven’s tone shift, pleading in fear.
 
