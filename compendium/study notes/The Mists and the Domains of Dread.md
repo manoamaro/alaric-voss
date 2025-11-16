@@ -4,6 +4,8 @@ aliases:
   - Mist
   - Mists
 ---
+![[mists.jpg]]
+
 # **1. Classification**
 
 _Planar Phenomenon: Sentient or Semi-Sentient Boundary of Isolation_  
@@ -50,7 +52,7 @@ Examples recorded in restricted sources:
 All share one constant: their masters are trapped within, unable to die or depart.
 
 ---
-### **6. Divinatory Perspective**
+# **6. Divinatory Perspective**
 
 Diviners find the Mists impossible to penetrate. Scrying returns reflections of the observer or false futures. Attempts to project consciousness through them result in echo-visions—possible futures that collapse once observed.  
 Patterns show **closed probability**: outcomes inside the Mists fold back into themselves.
@@ -58,23 +60,23 @@ Patterns show **closed probability**: outcomes inside the Mists fold back into t
 _Interpretation:_ “The Mists are the Weave’s method of isolating corruption from spreading into the greater fabric.”
 
 ---
-### **7. Interaction with the Weave**
+# **7. Interaction with the Weave**
 
 Magic behaves as though filtered. Spells reliant on planar contact (teleport, sending, gate) fail. Spells of emotion or memory intensify unpredictably. Divination draws not from the future but from the Mists’ memory of events.
 
 ---
-### **8. Theological Views**
+# **8. Theological Views**
 
 Clerics dispute whether the Mists are divine punishment or neutral mechanism. Lathander’s faithful view them as _penance made manifest_. Kelemvor’s clergy theorize they are _containment for the unjudged dead_.  
 Velsharoon’s scholars describe them as _perfect laboratories—petridishes of damnation_.
 
 ---
-### **9. Philosophical Reflection**
+# **9. Philosophical Reflection**
 
 The Mists expose a paradox: they isolate evil to prevent its spread, yet by doing so preserve it eternally. They serve balance through imprisonment, not redemption.  
 _Personal note:_ “The Mists are neither mercy nor malice. They are consequence without end.”
 
 ---
-### **10. Summary Thought**
+# **10. Summary Thought**
 
 “The Mists are the Weave’s quarantine—its response to the disease of will unrestrained.”  

@@ -1,3 +1,13 @@
+---
+aliases:
+  - werewolf
+  - werewolves
+  - werebear
+  - werebears
+  - wererat
+  - wererats
+  - were
+---
 ![[lycanthropy_sketch.jpg]]
 
 # Classification
@@ -14,11 +24,11 @@ The condition does not merely imitate beasts—it fuses mortal and animal instin
 
 # Types
 
-- Werewolf — most common; feral, territorial, and organized in hidden packs.
-- Werebear — rare; often benevolent or protective, resisting the curse’s rage.
-- Wererat — secretive; spread through cities, favor subterfuge over violence.
-- Weretiger — solitary hunters; calm but lethal when provoked.
-- Wereboar — brutish, aggressive, driven by dominance instinct.
+- **Werewolf** — most common; feral, territorial, and organized in hidden packs.
+- **Werebear** — rare; often benevolent or protective, resisting the curse’s rage.
+- **Wererat** — secretive; spread through cities, favor subterfuge over violence.
+- **Weretiger** — solitary hunters; calm but lethal when provoked.
+- **Wereboar** — brutish, aggressive, driven by dominance instinct.
 
 Each strain aligns with a unique primal signature in the Weave, suggesting origin from ancient druidic experiments or curses laid by nature spirits.
 

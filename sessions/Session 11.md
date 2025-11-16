@@ -10,7 +10,7 @@ A lone raven stood motionless on the road, about a hundred feet ahead of the par
 
 Then, without warning, a massive shape plummeted from the sky—crashing into the ground fifty feet beyond the raven. A humanoid form, towering and unnatural. [[Alaric Voss|Alaric]]’s trained eye recognized it as a [[Arcane Constructs|Construct]]—an arcane entity animated by magical force rather than life. Yet this one differed from any he had studied at the [[Neverwinter Academy]]. Its torso resembled a tree’s trunk wrapped in plates of bark, glowing veins pulsing beneath the surface. Its limbs were carved from ancient boughs, rooted feet gripping the earth, and broad wooden wings unfurled from its back, defying natural law. At its heart, nestled in the sacred fork of its body, pulsed a luminous core—the Crown-Core—the living heart of its magic.
 
-The Arboran Construct began to move, slow but deliberate, reaching an outstretched wooden arm toward the immobilized raven. Its hand opened, ready to seize the creature.
+The Arboran [[Arcane Constructs|Construct]] began to move, slow but deliberate, reaching an outstretched wooden arm toward the immobilized raven. Its hand opened, ready to seize the creature.
 
 From the rear, [[Brennick]]—standing about fifty feet behind—noticed a dark spiral forming above. A massive flock of ravens circled the construct, their wings blending with the mist. He tensed, drawing his sword in readiness.
 
@@ -18,7 +18,7 @@ From the rear, [[Brennick]]—standing about fifty feet behind—noticed a dark 
 
 Suddenly, the raven shot into the air—not of its own will. [[Hugh]] had used Catapult, launching the creature skyward in a high arc toward [[Brennick]]. Acting on instinct, [[Orianna]] transformed into a lynx, sprinted forward, and leapt—catching the bird midair in her jaws before landing gracefully, unharmed.
 
-The construct reacted instantly. Its wooden form groaned as it turned toward the druid. The sky erupted in motion as two flocks of ravens dove to attack.
+The [[Arcane Constructs|construct]] reacted instantly. Its wooden form groaned as it turned toward the druid. The sky erupted in motion as two flocks of ravens dove to attack.
 
 ![[construct_2.jpg]]
 
