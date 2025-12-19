@@ -1,0 +1,1 @@
+Woke up at the Vistani camp after a Long Rest - Level 4
