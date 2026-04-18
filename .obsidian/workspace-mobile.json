@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "273ad6aceae5caaa",
+        "id": "62541f5ea8c8927c",
         "type": "tabs",
         "children": [
           {
-            "id": "001938f1d319bd95",
+            "id": "6795866e7c001300",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "spells/Spells.base",
-                "viewName": "All"
-              },
-              "icon": "lucide-table",
-              "title": "Spells"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -39,7 +36,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Dateiexplorer"
         }
       },
       {
@@ -111,7 +108,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wizard Spells.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +117,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "Rückverweise"
         }
       },
       {
@@ -158,20 +154,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quartz-syncer:Quartz Syncer publication center": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false,
+      "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "001938f1d319bd95",
+  "active": "6795866e7c001300",
   "lastOpenFiles": [
-    "spells/Level 0/Toll the Dead.md",
+    "sessions/Session 14.md",
+    "sessions/Session 13.md",
+    "media/Session11/raven_entangled.jpg",
+    "media/mago-pj-dnd.stl",
+    "media/session10/short_rest.jpg",
+    "media/compendium/dragonborn_sketch.jpg",
+    "media/compendium/stanimir_sketch.jpg",
+    "media/compendium/ireena_sketch.jpg",
+    "media/session10/crossroads_gallows_vision.jpg",
+    "media/compendium/lycanthropy_sketch.jpg",
+    "media/Session11/construct.jpg",
+    "media/compendium/land_of_barovia.webp",
+    "media/compendium/mists.jpg",
+    "items/Staff.md",
+    "items/Black Orb.md",
+    "items/Construct Core.md",
+    "items/Scroll of Clairvoyance.md",
     "spells/Spells.base",
+    "spells/Level 0/Toll the Dead.md",
     "spells/Level 0/Elementalism.md",
     "spells/Level 0/Blade Ward.md",
     "spells/Level 0/Dancing Lights.md",
@@ -191,11 +205,6 @@
     "index.md",
     "README.md",
     "character-sheet.pdf",
-    "media/alaric_voss_village_barovia_2.jpg",
-    "media/alaric_voss_mist.jpg",
-    "media/alaric_voss_village_barovia.jpg",
-    "media/alaric_voss_kale.jpg",
-    "media/alaric_voss_neverwinter.jpg",
     "Wizard Spells.base"
   ]
 }
