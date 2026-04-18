@@ -49,6 +49,8 @@ I brought what I had learned to [[Father Lucian]], and he told me where [[Hendri
 
 By the time I neared [[Hendrik]]’s district, [[Van]] and [[Brennick]] had already stopped briefly at a shop to gather what they thought might help in a fight. They had reached [[Hendrik]]’s house before me and found the front door **unlocked**.
 
+![[hendriks_house.png]]
+
 That, in [[Village Vallaki|Vallaki]], is a confession in itself.
 
 They entered in silence. [[Hendrik]] was inside, drinking among his coffins, and when he saw them he did not cry out. Instead he made small, urgent motions for quiet, desperate as a drowning man trying not to splash. [[Van]] handed him a scrap of paper. [[Hendrik]] wrote only two words:
@@ -56,6 +58,8 @@ They entered in silence. [[Hendrik]] was inside, drinking among his coffins, and
 **[[Vampiric Entities|Vampires]] up.**
   
 [[Van]] pointed, and the three of them withdrew without spectacle.
+
+![[hendricks_house_interior.png]]
 
 That was when I reached them. [[Van]] pulled me in close at once and told me not to speak loudly. Whatever little safety remained depended on quiet. We took [[Hendrik]] farther off, into an alley well away from his house, and there, at last, the man began to speak.
 
