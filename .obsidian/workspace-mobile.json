@@ -182,7 +182,6 @@
       "markdown-importer:Markdown Importprogramm öffnen": false,
       "workspaces:Workspace-Layouts verwalten": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false,
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
