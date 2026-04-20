@@ -3,7 +3,6 @@ tags:
   - session
 date: 2025-10-26
 ---
-
 [[Alaric Voss|Alaric]] wakes early in [[Madame Eva]]’s camp at [[Tser Pool]], restless and unsettled by the previous night’s visions. Outside his tent, [[Stanimir]] greets him again, asking about [[Neverwinter]]—a place he claims never to have heard of. Still disoriented, [[Alaric Voss|Alaric]] recounts his meeting with [[Madame Eva]]. [[Stanimir]] advises, “Then follow her words.”
 
 After breakfast, [[Alaric Voss|Alaric]] sets off toward the crossroads, walking for several hours. There he finds the gallows—changed. Four bodies hang now where none stood before: an old man in armor smiling faintly, a second knight with silver trim and fury on his face, a blue-green [[Tieflings|tiefling]] woman, and a bronze [[Dragonborns|dragonborn]]. Realizing it is another vision, [[Alaric Voss|Alaric]] approaches but collides with an invisible barrier that hurls him backward. Pain sears through him (–1 HP). When he rises, the bodies are gone.
