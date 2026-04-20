@@ -8,7 +8,9 @@ We came at last to the church.
 From a distance, St. Andral’s had appeared as all things in [[Village Vallaki|Vallaki]] seem to appear at first glance: tired, weather-worn, and leaning toward decay. Its stone was dark with age, its stained glass cracked, its yard enclosed by iron that looked more like confinement than protection. A graveyard crouched nearby. Across the street stood another building where children played beneath the shadow of the bell tower, as though innocence here survives only by refusing to look up.
 
 And yet, as with so much in this land, the first impression was not the true one.
+
 ![[st_andral_church_interior.png]]
+
 Inside, the church was cared for. The pews were sound. The symbols of devotion had been polished and preserved. Candles still burned. The sign of the Morninglord stood there in an older form, archaic but recognizable, as if faith itself had retreated into older shapes in order to endure. Only one thing openly disturbed that fragile order: a broken window, and a young man laboring to repair the damage.
 
 Before we entered, we nearly collided with an old coffin maker carrying planks from the church. He was frail, bloodshot, and disheveled, the sort of man who looked as though sleep had become a rumour. His name was **[[Hendrik]]**. He told us there had been a break-in at the crypt, and that [[Father Lucian]] had called for repairs.
@@ -49,9 +51,10 @@ I brought what I had learned to [[Father Lucian]], and he told me where [[Hendri
 
 By the time I neared [[Hendrik]]’s district, [[Van]] and [[Brennick]] had already stopped briefly at a shop to gather what they thought might help in a fight. They had reached [[Hendrik]]’s house before me and found the front door **unlocked**.
 
+That, in [[Village Vallaki|Vallaki]], is a confession in itself.
+
 ![[hendriks_house.png]]
 
-That, in [[Village Vallaki|Vallaki]], is a confession in itself.
 
 They entered in silence. [[Hendrik]] was inside, drinking among his coffins, and when he saw them he did not cry out. Instead he made small, urgent motions for quiet, desperate as a drowning man trying not to splash. [[Van]] handed him a scrap of paper. [[Hendrik]] wrote only two words:
 
