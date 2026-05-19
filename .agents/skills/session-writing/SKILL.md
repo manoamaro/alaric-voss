@@ -18,7 +18,7 @@ The user will provide raw material in any combination of:
 - Image filenames already present in `media/` (or planned)
 - Session number and (if known) in-fiction date
 
-If the session number or date is missing, ask for it once before writing.
+**Always** ask the user for the session number and in-fiction date before drafting, even if you think you can infer them. Ask both in a single up-front question (one for the number, one for the date) and wait for the answer. If the user explicitly says the date is unknown, leave `date:` blank — but do not skip the question.
 
 ## Mandatory Output Structure
 
@@ -162,7 +162,10 @@ Use this only when the user's notes contain enough material to populate at least
 
 When invoked:
 
-1. Confirm the session number, in-fiction date (if known), and the path to write to (default `sessions/Session N.md`).
+1. **Ask the user, before doing anything else**, for:
+   - the **session number** (required — used for the filename `sessions/Session N.md`);
+   - the **in-fiction date** in `YYYY-MM-DD` form (required — the user may answer "unknown" to leave it blank).
+   Do not proceed to drafting until both answers are received. Use the `ask_user` tool for this; do not ask in plain text.
 2. Skim the raw notes and identify scene boundaries (travel, conversation, combat, aftermath, vision, reflection).
 3. Identify every named entity and assign it a wiki link target. If unsure, link anyway.
 4. Identify every emotional beat the user provided and weave it into the reflective register — never as a bald "Alaric was scared", always as observation or aftermath.
