@@ -4,6 +4,6 @@ aliases:
   - Barovia Village
 ---
 ![[village_of_barovia_1.jpg]]
-![[village_of_barovia_map.webp]]
+![[village_of_barovia_map.jpg]]
 
 #location 

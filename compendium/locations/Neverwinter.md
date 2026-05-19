@@ -1,4 +1,4 @@
-![[neverwinter_harbor.webp]]
+![[neverwinter_harbor.jpg]]
 
 Neverwinter is a major city-state on the Sword Coast of Faerûn, northwest of the continent. Known as “The Jewel of the North,” it is famed for beauty, order, and resilience.
 

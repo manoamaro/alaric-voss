@@ -2,4 +2,4 @@
 aliases:
   - Hendrik
 ---
-![[hendrik.png]]
+![[hendrik.jpg]]
