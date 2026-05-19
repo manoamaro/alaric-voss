@@ -1,5 +1,7 @@
 ---
-date: 2025-04-17
+tags:
+  - session
+date: 2026-04-17
 ---
 We came at last to the church.
 

@@ -1,4 +1,6 @@
 ---
+tags:
+  - session
 date: 2026-02-02
 ---
 [[The Mists and the Domains of Dread|The mists]] do not merely obscure—they **mute**. Sound, certainty, even reason seem dulled beneath their veil.

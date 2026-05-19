@@ -1,6 +1,11 @@
-## Vallaki Under the Mask
+---
+tags:
+  - session
+date:
+---
+## [[Village Vallaki|Vallaki]] Under the Mask
 
-Vallaki continued its performance of forced joy.
+[[Village Vallaki|Vallaki]] continued its performance of forced joy.
 
 Every street carried the same contradiction: smiles painted over fear, festival banners hanging beside gallows. Punishment for “malicious unhappiness” remained public and theatrical. The town demanded celebration not because its people were joyful, but because they were terrified not to appear so.
 
