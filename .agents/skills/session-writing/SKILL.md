@@ -18,7 +18,13 @@ The user will provide raw material in any combination of:
 - Image filenames already present in `media/` (or planned)
 - Session number and (if known) in-fiction date
 
-**Always** ask the user for the session number and in-fiction date before drafting, even if you think you can infer them. Ask both in a single up-front question (one for the number, one for the date) and wait for the answer. If the user explicitly says the date is unknown, leave `date:` blank — but do not skip the question.
+**Always** ask the user for the following before drafting, even if you think you can infer some of them. Ask in a single up-front exchange and wait for the answers:
+
+- the **session number** (required — used for the filename `sessions/Session N.md`);
+- the **in-fiction date** in `YYYY-MM-DD` form (required — the user may answer "unknown" to leave it blank);
+- the **DM's end-of-session questions** about the character (required — see *DM Debrief* below; the user may answer "none this session" to skip).
+
+Do not proceed to drafting until all three answers are received. Use the `ask_user` tool; do not ask in plain text.
 
 ## Mandatory Output Structure
 
@@ -158,14 +164,38 @@ For tactically dense sessions, an optional appendix may be added after a final `
 
 Use this only when the user's notes contain enough material to populate at least two of the three blocks.
 
+## DM Debrief
+
+At the end of each session the DM poses one or more questions to Alaric's player about the character — typically introspective prompts ("What did Alaric learn tonight?", "What does he fear now that he did not fear before?", "What memory surfaced unbidden?"). These are not in-fiction conversations; they are debrief prompts. The journal records them as a closing appendix in which Alaric answers each one in his own voice.
+
+Render this section **after** the reflective close (and after any `**Private Notes**` appendix, if present), separated by a `---`, structured exactly as follows:
+
+```markdown
+---
+
+## DM Debrief
+
+> *The DM's question, quoted verbatim.*
+
+<Alaric's first-person answer — one short paragraph in the same reflective ledger voice as the rest of the journal. Two paragraphs at most.>
+
+> *Second question, if any.*
+
+<Answer.>
+```
+
+Rules:
+
+- Each question is rendered as a Markdown blockquote in italics, quoting the DM's wording verbatim (lightly tidied for punctuation only).
+- Each answer is a plain paragraph immediately beneath its question, written in first person as Alaric. The same restraint, hedged certainty, and scholarly tone apply.
+- Do not paraphrase the question into in-fiction language. Keep it as the meta prompt it was; only the answer is in-character.
+- If the user answers "none this session", omit the entire `## DM Debrief` block — do not leave an empty heading.
+
 ## Workflow
 
 When invoked:
 
-1. **Ask the user, before doing anything else**, for:
-   - the **session number** (required — used for the filename `sessions/Session N.md`);
-   - the **in-fiction date** in `YYYY-MM-DD` form (required — the user may answer "unknown" to leave it blank).
-   Do not proceed to drafting until both answers are received. Use the `ask_user` tool for this; do not ask in plain text.
+1. **Ask the user, before doing anything else**, for the session number, the in-fiction date, and the DM's end-of-session questions (see the very top of this skill). Do not proceed until all three answers are received.
 2. Skim the raw notes and identify scene boundaries (travel, conversation, combat, aftermath, vision, reflection).
 3. Identify every named entity and assign it a wiki link target. If unsure, link anyway.
 4. Identify every emotional beat the user provided and weave it into the reflective register — never as a bald "Alaric was scared", always as observation or aftermath.
@@ -178,6 +208,7 @@ When invoked:
    - The opening hook is reflective, not expository.
    - The closing beat is reflective, not action.
    - `---` scene breaks are surrounded by blank lines.
+   - If DM questions were provided, the `## DM Debrief` block is present at the very end of the file, after any other appendix, with each question as a blockquote and each answer as a first-person paragraph.
 7. Write the file with the `create` tool (never overwrite without explicit confirmation).
 8. Report briefly to the user: file path, scene count, any names that were linked but have no compendium entry yet (so they know what stubs to create).
 
